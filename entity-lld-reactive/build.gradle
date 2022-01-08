@@ -16,6 +16,10 @@ dependencies {
 //	1. compile time + run time
 	implementation 'org.springframework.boot:spring-boot-starter-data-r2dbc'
 	implementation 'org.springframework.boot:spring-boot-starter-webflux'
+
+
+	compileOnly group: 'org.projectlombok', name: 'lombok', version: '1.18.22'
+
 //	2. run time
 	runtimeOnly 'dev.miku:r2dbc-mysql'
 	runtimeOnly 'mysql:mysql-connector-java'
