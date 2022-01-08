@@ -27,6 +27,15 @@ import java.util.Random;
  * https://www.baeldung.com/spring-webflux
  * https://www.baeldung.com/spring-5-webclient
  * https://youtu.be/1XaHqhAA5Sw
+ *
+ * Notes: : https://dassum.medium.com/building-a-reactive-restful-web-service-using-spring-boot-and-postgres-c8e157dbc81d
+ * Using Spring Data R2DBC, tables cannot be created at runtime ⚠️.
+ * We can either create the tables externally or we can create a schema.sql file
+ * inside the resources folder and execute them programmatically.
+ * For our application, we will create a schema.sql file inside the resources folder with all the DDL statements.
+ *
+ * https://stackoverflow.com/questions/44055969/in-spring-what-is-the-difference-between-profile-and-activeprofiles
+ * https://stackoverflow.com/questions/23132822/what-is-the-difference-between-defining-transactional-on-class-vs-method
  */
 
 class Person {
