@@ -22,6 +22,11 @@ import java.util.Random;
  * ✅ entity -> repo -> test [IMP steps]
  * ✅ service(optional) -> test
  * ✅ controller(optional) -> test
+ *
+ * Ref:
+ * https://www.baeldung.com/spring-webflux
+ * https://www.baeldung.com/spring-5-webclient
+ * https://youtu.be/1XaHqhAA5Sw
  */
 
 class Person {
