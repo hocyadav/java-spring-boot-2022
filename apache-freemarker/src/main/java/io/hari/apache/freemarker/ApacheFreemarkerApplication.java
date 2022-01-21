@@ -14,6 +14,9 @@ import java.io.OutputStreamWriter;
 import java.io.Writer;
 import java.util.*;
 
+/**
+ * https://www.vogella.com/tutorials/FreeMarker/article.html#eclipse_integration
+ */
 @SpringBootApplication
 public class ApacheFreemarkerApplication implements CommandLineRunner {
 
