@@ -41,7 +41,10 @@ public class ApacheFreemarkerApplication implements CommandLineRunner {
 		setFtlKeyValue(input);
 
 		Template template = cfg.getTemplate("my_apache_freemakrker_template.ftl");
+//		Template template = cfg.getTemplate("bolt_template.ftl");
 
+		//todo : expolore Writer interface + impl class like OutputStreamWriter, FileWriter
+		//process method takes input Writer object
 		Writer consoleWriter = new OutputStreamWriter(System.out);
 		template.process(input, consoleWriter);
 
@@ -55,6 +58,8 @@ public class ApacheFreemarkerApplication implements CommandLineRunner {
 
 	private void setFtlKeyValue(Map<String, Object> input) {
 		input.put("title", "Vogella example");
+		input.put("vertical", "vertical123");
+		input.put("mouse_var", "mouse value from input map");
 		input.put("exampleObject", new MyEntity("Java object", "me"));
 
 		List<MyEntity> myEntityList =
@@ -64,5 +69,8 @@ public class ApacheFreemarkerApplication implements CommandLineRunner {
 						new MyEntity("Windows7", "Microsoft")
 				);
 		input.put("systems", myEntityList);
+
+
+		input.put("my_template_class", new MyTemplaceClass());//step 4: create a variable for method
 	}
 }
