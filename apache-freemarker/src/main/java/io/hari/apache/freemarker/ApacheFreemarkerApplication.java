@@ -87,7 +87,7 @@ public class ApacheFreemarkerApplication implements CommandLineRunner {
 		//https://freemarker.apache.org/docs/dgui_template_exp.html
 		input.put("id", 1234);
 
-
+		//https://stackoverflow.com/questions/23328981/how-to-get-comma-between-freemarker-list
 		input.put("user_list", List.of("hari", "om", "yadav"));
 	}
 }
