@@ -4,6 +4,7 @@ import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateExceptionHandler;
 import freemarker.template.Version;
+import io.hari.apache.freemarker.directive.UpperDirective;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -72,5 +73,17 @@ public class ApacheFreemarkerApplication implements CommandLineRunner {
 
 
 		input.put("my_template_class", new MyTemplaceClass());//step 4: create a variable for method
+
+		input.put("my_directive", new UpperDirective());//step 4: create a variable for method
+
+
+		input.put("my_null_value", null);//working
+
+		//https://stackoverflow.com/questions/306732/how-to-check-if-a-variable-exists-in-a-freemarker-template
+//		input.put("userName", null);//working
+//		input.put("userName", "");//working
+//		input.put("userName", "hariom");//working
+
+
 	}
 }
