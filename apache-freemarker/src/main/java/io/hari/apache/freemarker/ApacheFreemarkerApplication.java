@@ -84,6 +84,10 @@ public class ApacheFreemarkerApplication implements CommandLineRunner {
 //		input.put("userName", "");//working
 //		input.put("userName", "hariom");//working
 
+		//https://freemarker.apache.org/docs/dgui_template_exp.html
+		input.put("id", 1234);
 
+
+		input.put("user_list", List.of("hari", "om", "yadav"));
 	}
 }

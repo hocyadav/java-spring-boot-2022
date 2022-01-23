@@ -59,3 +59,19 @@ Hi ${userName?if_exists}, How are you?
 
 //if not present then set default value ,
 Hi ${userName!"Omprakash"}, How are you?
+
+"someUrl?id=" + id?c
+"someUrl?myid=${id?c}"
+"someUrl?myid=${(id)?c}"
+"someUrl?myid=${(id!)?c}"
+
+
+//for loop , list of users
+<#list user_list as user>
+${user}
+</#list>
+
+//add comma
+<#list user_list as user>
+${user} <#sep>, <#sep>
+</#list>
