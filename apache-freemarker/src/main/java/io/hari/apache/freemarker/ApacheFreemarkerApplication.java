@@ -38,17 +38,7 @@ public class ApacheFreemarkerApplication implements CommandLineRunner {
 		cfg.setTemplateExceptionHandler(TemplateExceptionHandler.RETHROW_HANDLER);
 
 		Map<String, Object> input = new HashMap<String, Object>();
-
-		input.put("title", "Vogella example");
-
-		input.put("exampleObject", new MyEntity("Java object", "me"));
-
-		List<MyEntity> systems = new ArrayList<>();
-		systems.add(new MyEntity("Android", "Google"));
-		systems.add(new MyEntity("iOS States", "Apple"));
-		systems.add(new MyEntity("Ubuntu", "Canonical"));
-		systems.add(new MyEntity("Windows7", "Microsoft"));
-		input.put("systems", systems);
+		setFtlKeyValue(input);
 
 		Template template = cfg.getTemplate("my_apache_freemakrker_template.ftl");
 
@@ -61,5 +51,18 @@ public class ApacheFreemarkerApplication implements CommandLineRunner {
 		} finally {
 			fileWriter.close();
 		}
+	}
+
+	private void setFtlKeyValue(Map<String, Object> input) {
+		input.put("title", "Vogella example");
+		input.put("exampleObject", new MyEntity("Java object", "me"));
+
+		List<MyEntity> myEntityList =
+				List.of(new MyEntity("Android", "Google"),
+						new MyEntity("iOS States", "Apple"),
+						new MyEntity("Ubuntu", "Canonical"),
+						new MyEntity("Windows7", "Microsoft")
+				);
+		input.put("systems", myEntityList);
 	}
 }
