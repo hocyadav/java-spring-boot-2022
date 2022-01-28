@@ -77,17 +77,24 @@ public class ApacheFreemarkerApplication implements CommandLineRunner {
 		input.put("my_directive", new UpperDirective());//step 4: create a variable for method
 
 
-		input.put("my_null_value", null);//working
+//		input.put("my_null_value", null);//working
+//		input.put("my_null_value", "new value");//working
+		input.put("my_null_value2", "new value2");//working
+//		input.put("my_null_value3", "new value3");//working
+		input.put("my_null_value4", "new value4");//working
 
 		//https://stackoverflow.com/questions/306732/how-to-check-if-a-variable-exists-in-a-freemarker-template
 //		input.put("userName", null);//working
 //		input.put("userName", "");//working
-//		input.put("userName", "hariom");//working
+		input.put("userName", "hariom");//working
 
 		//https://freemarker.apache.org/docs/dgui_template_exp.html
 		input.put("id", 1234);
 
 		//https://stackoverflow.com/questions/23328981/how-to-get-comma-between-freemarker-list
 		input.put("user_list", List.of("hari", "om", "yadav"));
+
+
+		input.put("color", "green");
 	}
 }

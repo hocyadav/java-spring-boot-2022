@@ -75,3 +75,48 @@ ${user}
 <#list user_list as user>
 ${user} <#sep>, <#sep>
 </#list>
+
+
+//testing condition OR AND
+
+//null check using if block
+<#if my_null_value??>
+     value  present ${my_null_value}
+</#if>
+
+<#if my_null_value2??>
+     value  present ${my_null_value2}
+</#if>
+
+<#if my_null_value3??>
+    value  present  ${my_null_value3}
+</#if>
+
+<#if my_null_value4??>
+    value  present ${my_null_value4}
+</#if>
+
+---------------
+"address" : {
+<#if my_null_value??>
+        "KEY1" : []
+        <#if my_null_value2?? || my_null_value3?? || my_null_value4??>
+          ,
+        </#if>
+</#if>
+<#if my_null_value2??>
+        "KEY2" : []
+        <#if my_null_value3?? || my_null_value4??>
+          ,
+        </#if>
+</#if>
+<#if my_null_value3??>
+        "KEY3" : []
+        <#if my_null_value4??>
+           ,
+        </#if>
+</#if>
+<#if my_null_value4??>
+        "KEY4" : []
+</#if>
+}
