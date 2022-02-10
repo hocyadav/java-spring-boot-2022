@@ -15,6 +15,9 @@ repositories {
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-freemarker'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+	// https://mvnrepository.com/artifact/org.mvel/mvel2
+	implementation group: 'org.mvel', name: 'mvel2', version: '2.4.14.Final'
 }
 
 test {
