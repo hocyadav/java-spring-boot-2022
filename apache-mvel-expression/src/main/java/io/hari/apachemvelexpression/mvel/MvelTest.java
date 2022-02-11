@@ -1,8 +1,11 @@
-package io.hari.apache.freemarker.mvel;
+package io.hari.apachemvelexpression.mvel;
 
 import org.mvel2.MVEL;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
 
 public class MvelTest {
     public static void main(String[] args) {
