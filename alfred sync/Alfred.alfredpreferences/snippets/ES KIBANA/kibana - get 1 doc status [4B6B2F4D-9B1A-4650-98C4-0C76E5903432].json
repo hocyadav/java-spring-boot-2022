@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "HEAD \/vehicles\/<type>\/uGhfQn4BtVK8TnyX-8gd",
+    "dontautoexpand" : true,
+    "uid" : "4B6B2F4D-9B1A-4650-98C4-0C76E5903432",
+    "name" : "~ kibana - get 1 doc status",
+    "keyword" : "~ kibana get 1 doc status"
+  }
+}

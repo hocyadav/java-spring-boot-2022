@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "docker pull 10.24.9.10\/sp-slm\/tools\/slm-gradle:7.3-jdk15-cnb",
+    "dontautoexpand" : true,
+    "uid" : "09D2AF10-E296-41B0-8B3F-A27CE16A393D",
+    "name" : "> harbor docker pull",
+    "keyword" : "> harbor docker pull"
+  }
+}

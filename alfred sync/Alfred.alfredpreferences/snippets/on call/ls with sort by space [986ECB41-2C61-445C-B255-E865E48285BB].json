@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ls -lash | sort -hr",
+    "dontautoexpand" : true,
+    "uid" : "986ECB41-2C61-445C-B255-E865E48285BB",
+    "name" : "~ ls with sort by space",
+    "keyword" : "~ ls with sort by space"
+  }
+}

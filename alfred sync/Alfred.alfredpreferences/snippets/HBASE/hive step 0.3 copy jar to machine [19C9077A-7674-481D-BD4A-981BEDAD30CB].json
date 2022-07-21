@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "scp listings-data-migrator-1.0-SNAPSHOT-all.jar yadav.hariom@10.53.66.159:\/home\/yadav.hariom",
+    "dontautoexpand" : true,
+    "uid" : "19C9077A-7674-481D-BD4A-981BEDAD30CB",
+    "name" : "> hive step 0.3 copy jar to machine",
+    "keyword" : "> hive step 0.3 copy jar to machine"
+  }
+}

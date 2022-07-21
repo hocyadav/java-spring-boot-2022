@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>0E0285A7-4BC2-4114-A28B-03BA16FBF930</key>
+		<dict>
+			<key>enabled</key>
+			<false/>
+			<key>keyword</key>
+			<string>twitter</string>
+			<key>spaces</key>
+			<string>%20</string>
+			<key>text</key>
+			<string>Twitter Open / Search</string>
+			<key>url</key>
+			<string>https://twitter.com/search?q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>3462FA84-E587-46DB-A8E7-D2AA618D5510</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>cfk</string>
+			<key>spaces</key>
+			<string>+</string>
+			<key>text</key>
+			<string>Confluences Search Flipkart</string>
+			<key>url</key>
+			<string>https://confluence.fkinternal.com/dosearchsite.action?queryString={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>60E8D663-B23A-42DD-9BBD-CC79DD6D5F2F</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>fresh</string>
+			<key>text</key>
+			<string>Amazon Fresh</string>
+			<key>url</key>
+			<string>https://www.amazon.in/alm/storefront?almBrandId=ctnow&amp;ref_=nav_cs_fresh</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>79690964-E4E4-4542-879A-EAE25DAEB0E7</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>linkedin</string>
+			<key>spaces</key>
+			<string>%20</string>
+			<key>text</key>
+			<string>Linkedin Search</string>
+			<key>url</key>
+			<string>https://www.linkedin.com/search/results/all/?keywords={query}&amp;origin=GLOBAL_SEARCH_HEADER&amp;sid=ujJ</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>933D421E-1423-4A75-8051-282DE4101A87</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>flipkart wishlist</string>
+			<key>text</key>
+			<string>Flipkart wishlist</string>
+			<key>url</key>
+			<string>https://www.flipkart.com/wishlist?link=home_wishlist</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>9794AE09-8818-492C-828D-D38F8A7A8D98</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>amazon orders</string>
+			<key>text</key>
+			<string>Amazon Orders</string>
+			<key>url</key>
+			<string>https://www.amazon.in/gp/css/order-history</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>A937DEE3-BAC2-4F28-B06B-2100BCD17330</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>windy weather</string>
+			<key>text</key>
+			<string>Weather Windy Bangalore</string>
+			<key>url</key>
+			<string>https://www.windy.com/?12.963,77.586,5</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>D085934B-A71C-4F46-98CA-CAE29634F383</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>flipkart orders</string>
+			<key>text</key>
+			<string>Flipkart orders</string>
+			<key>url</key>
+			<string>https://www.flipkart.com/account/orders?link=home_orders</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>E759FB63-01F8-4620-903E-963DBD9B6D45</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>flipkart</string>
+			<key>spaces</key>
+			<string>%20</string>
+			<key>text</key>
+			<string>Flipkart Search</string>
+			<key>url</key>
+			<string>https://www.flipkart.com/search?q={query}&amp;otracker=search&amp;otracker1=search&amp;marketplace=FLIPKART&amp;as-show=on&amp;as=off</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

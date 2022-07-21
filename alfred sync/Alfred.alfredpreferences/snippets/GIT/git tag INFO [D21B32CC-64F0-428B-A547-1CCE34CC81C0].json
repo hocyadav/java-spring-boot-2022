@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#https:\/\/stackoverflow.com\/questions\/4404172\/how-to-tag-an-older-commit-in-git\n#git tag v1.0.0 f4ba1fc\n#git push origin --tags",
+    "dontautoexpand" : true,
+    "uid" : "D21B32CC-64F0-428B-A547-1CCE34CC81C0",
+    "name" : "git tag INFO",
+    "keyword" : "git tag INFO"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "GET _cat\/nodes",
+    "dontautoexpand" : true,
+    "uid" : "3FF6BE78-4D8D-4A01-B391-604F49461739",
+    "name" : "~ kibana get all ES nodes",
+    "keyword" : "~ kibana all es nodes"
+  }
+}

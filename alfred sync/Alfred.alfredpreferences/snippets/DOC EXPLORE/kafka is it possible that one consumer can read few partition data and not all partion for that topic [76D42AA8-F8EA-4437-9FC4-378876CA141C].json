@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "https:\/\/www.google.com\/search?q=kafka+is+it+possible+that+one+consumer+can+read+few+partition+data+and+not+all+partion+for+that+topic&rlz=1C5CHFA_enIN956IN956&oq=kafka+is+it+possible+that+one+consumer+can+read+few+partition+data+and+not+all+partion+for+that+topic&aqs=chrome..69i57j69i64l3.24149j0j7&sourceid=chrome&ie=UTF-8",
+    "dontautoexpand" : true,
+    "uid" : "76D42AA8-F8EA-4437-9FC4-378876CA141C",
+    "name" : "kafka is it possible that one consumer can read few partition data and not all partion for that topic",
+    "keyword" : "kafka is it possible that one consumer can read few partition data and not all partion for that topic"
+  }
+}

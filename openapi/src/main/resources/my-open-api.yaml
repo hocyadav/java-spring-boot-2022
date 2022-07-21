@@ -1,0 +1,229 @@
+openapi: 3.0.0
+
+info:
+  version: 0.0.1
+  title: Listing Price Calculator Service
+  description: Listing Price Calculator Service
+
+tags:
+  - name: "ShippingPriceCalculator"
+
+paths:
+
+  /shipping-price:
+    post:
+      operationId: calculateShippingPrice
+      parameters:
+        - $ref: '#/components/parameters/client_id_header'
+
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PriceCalculateRequest'
+        required: true
+
+      responses:
+        "200":
+          description: Price Calculate Response.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PriceCalculateResponse'
+
+        '400':
+          description: Bad request.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+
+        '500':
+          description: One or more internal errors prevented the request from suceeding.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /component/{price_component}/rules:
+    post:
+      operationId: configurePriceComponentRules
+      parameters:
+        - $ref: '#/components/parameters/client_id_header'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PriceComponentRuleset'
+        required: true
+      responses:
+        '200':
+          description: Successfully configured.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PriceComponentRuleset'
+
+components:
+  schemas:
+    PriceCalculateRequest:
+      description: List of all listing price request.
+      type: object
+      required:
+        - request
+      properties:
+        request:
+          type: array
+          items:
+            $ref: '#/components/schemas/ListingCriteria'
+#        date:
+#          type: string
+##          pattern: "([0-9]{4})-(?:[0-9]{2})-([0-9]{2})"
+#          pattern: "([0-9]{2})-(?:[0-9]{2})-([0-9]{4})"
+##          example: "2022-03-22"
+#          example: "22-03-2022"
+#        time:
+#          type: string
+#          pattern: "([0-9]{2}):([0-9]{2})"
+#          example: "13:40"
+        dateTime:
+          type: string
+          pattern: "([0-9]{2}):([0-9]{2})"
+          example: "13:40"
+#        dateTime:
+#          type: string
+#          format: date-time
+#          description: Price calculate response date and time.
+#          example: "2021-01-30T08:30:00Z"
+#        createdAt:
+#          type: string
+#          format: date-time
+#          description: Creation date and time
+#          example: "2021-01-30T08:30:00Z"
+    PriceComponentRuleset:
+      type: object
+      properties:
+        id:
+          type: integer
+          description: Ruleset ID
+
+    ListingCriteria:
+      description: ListingCriteria Request data model.
+      type: object
+      properties:
+        key:
+          type: string
+        value:
+          type: string
+
+    PriceCalculateResponse:
+      description: Listing Price Response data model.
+      type: object
+      required:
+        - id
+        - local
+        - zonal
+        - national
+      properties:
+        status:
+          type: string
+          readOnly: true
+          enum:
+            - SUCESS
+            - FAILED
+            - WARNING
+        id:
+          description: id.
+          type: string
+        local:
+          description: Local buyers shipping price.
+          type: string
+        zonal:
+          description: Zonal buyers shipping price.
+          type: string
+        national:
+          description: National buyers shipping price.
+          type: string
+        date:
+          type: string
+          pattern: "([0-9]{4})-(?:[0-9]{2})-([0-9]{2})"
+          example: "2022-03-22"
+          required: false
+        time:
+          type: string
+          pattern: "([0-9]{2}):([0-9]{2})"
+          example: "13:40"
+          required: false
+        dateTime:
+          type: string
+        errors:
+          items:
+            $ref: '#/components/schemas/Error'
+
+    Error:
+      type: object
+      description: Represents an error.
+      required:
+        - code
+        - message
+        - status
+      properties:
+        code:
+          type: integer
+          format: int32
+          description: >
+            An error code. Error codes can be any of:
+            | Code  |       Description     |
+            |-------|-----------------------|
+            |   499 | Client Closed Request |
+            |   500 | Internal Server Error |
+            |   400 |       Bad Request     |
+            |   504 |     Gateway Timeout   |
+            |   404 |        Not Found      |
+            |   409 |    Conflict (Exists)  |
+            |   403 |        Forbidden      |
+            |   401 |       Unauthorized    |
+            |   429 |    Too many requests  |
+            |   400 |       Bad Request     |
+            |   501 |      Not Implemented  |
+            |   503 |   Service Unavailable |
+          readOnly: true
+        message:
+          type: string
+          description: The error message.
+        status:
+          description: Enum version of the code.
+          type: string
+          readOnly: true
+          enum:
+            - UNKNOWN
+            - CORRUPT_PAYLOAD
+            - CANCELLED
+            - INVALID_ARGUMENT
+            - DEADLINE_EXCEEDED
+            - NOT_FOUND
+            - ALREADY_EXISTS
+            - PERMISSION_DENIED
+            - UNAUTHENTICATED
+            - RESOURCE_EXHAUSTED
+            - FAILED_PRECONDITION
+            - ABORTED
+            - OUT_OF_RANGE
+            - UNIMPLEMENTED
+            - INTERNAL
+            - UNAVAILABLE
+            - DATA_LOSS
+        metadata:
+          description: Additional metadata that might be useful for further debugging.
+          type: object
+          additionalProperties: true
+
+  parameters:
+    client_id_header:
+      name: x-flipkart-client
+      description: Header to indicate the client.
+      in: header
+      required: true
+      example: sp.slm
+      schema:
+        type: string
+        default: sp.slm

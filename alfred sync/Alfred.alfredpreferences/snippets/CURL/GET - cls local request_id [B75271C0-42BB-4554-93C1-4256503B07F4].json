@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl --location --request GET 'http:\/\/localhost:8080\/v1\/gateway\/requests\/{clipboard}' \\\n--header 'content-type: application\/json' \\\n--header 'fk-seller-id: 19e4d415fc1f40da' \\\n--header 'X-Trace-Id: 21342112' \\\n--header 'x-callback-uri: http:\/\/www.google.com' | _json",
+    "dontautoexpand" : true,
+    "uid" : "B75271C0-42BB-4554-93C1-4256503B07F4",
+    "name" : "GET - cls local request_id",
+    "keyword" : "GET - cls local request_id"
+  }
+}

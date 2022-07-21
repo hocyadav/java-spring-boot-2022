@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl -XGET \"http:\/\/localhost:9200\/vehicles\/_search?pretty\" -H 'Content-Type: application\/json' -d'\n{\n  \"query\": {\n    \"match_all\": {}\n  }\n}'",
+    "dontautoexpand" : true,
+    "uid" : "6D5E2A91-2A1E-42D9-9645-B4775051BF18",
+    "name" : "> kibana - get all cli curl",
+    "keyword" : "> kibana get all cli curl"
+  }
+}

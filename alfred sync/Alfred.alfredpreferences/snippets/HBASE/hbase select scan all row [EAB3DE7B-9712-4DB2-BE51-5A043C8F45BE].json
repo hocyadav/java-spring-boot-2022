@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "scan '{clipboard}'",
+    "dontautoexpand" : true,
+    "uid" : "EAB3DE7B-9712-4DB2-BE51-5A043C8F45BE",
+    "name" : "hbase select scan all row",
+    "keyword" : "hbase select scan all row"
+  }
+}

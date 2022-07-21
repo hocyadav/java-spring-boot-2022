@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl --location --request GET 'http:\/\/10.24.12.70\/v1\/materialized\/{clipboard}' \\\n--header 'Content-Type: application\/json' \\\n--header 'x-seller-id: d591418b408940a0' \\\n--header 'x-root-context: c0605a0f-d392-4bfc-bd59-5828eb25146d' \\\n--header 'x-flipkart-client: sp.slm' \\\n--header 'x-priority: HIGH' | _json{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "AD639B17-63A8-47F2-A502-7248B4F26FEE",
+    "name" : "> curl CLS MARTZ - get REVERSE spcms listing",
+    "keyword" : "> curl CLS MARTZ - get REVERSE spcms listing"
+  }
+}

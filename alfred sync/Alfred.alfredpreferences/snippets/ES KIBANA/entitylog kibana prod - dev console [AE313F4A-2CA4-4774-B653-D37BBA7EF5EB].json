@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.7.94\/app\/kibana#\/dev_tools\/console?_g=(refreshInterval:(pause:!t,value:0),time:(from:now-13m,to:now))",
+    "dontautoexpand" : true,
+    "uid" : "AE313F4A-2CA4-4774-B653-D37BBA7EF5EB",
+    "name" : "entitylog kibana prod - dev console",
+    "keyword" : "entitylog kibana prod - dev console"
+  }
+}

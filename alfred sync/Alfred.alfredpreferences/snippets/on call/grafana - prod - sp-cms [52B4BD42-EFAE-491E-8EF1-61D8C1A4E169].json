@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/cosmos.fkcloud.in\/dashboard\/script\/elb_backend_new.js?zone=in-hyderabad-1&backend=fk-sp-slm-service___fk-sp-slm-service-vip&stack=v3&orgId=1&from=now-1h&to=now&refresh=1m",
+    "dontautoexpand" : true,
+    "uid" : "52B4BD42-EFAE-491E-8EF1-61D8C1A4E169",
+    "name" : "grafana - prod - sp-cms",
+    "keyword" : "grafana - prod - sp-cms"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "export JAVA_HOME=$(\/usr\/libexec\/java_home -v 1.8.0_291)\njava -version\n.\/build-sp-cms.sh sp-cms-backend app\n",
+    "dontautoexpand" : true,
+    "uid" : "21C9D774-CE4E-454D-B1A3-58259DEB2707",
+    "name" : "spcms local build",
+    "keyword" : "spcms local build"
+  }
+}

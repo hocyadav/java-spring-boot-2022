@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# create screen \t\t\t--> screen -S <name>\n# go inside screen \t\t--> screen -r saal\n# list screen \t\t\t\t--> screen -ls\n# come out from screen \t--> ctrl + a + d\n# close screen \t\t\t--> screen -X -S <name> quit\n# close all screen \t\t\t--> screen -X quit\n",
+    "dontautoexpand" : true,
+    "uid" : "68ABFC34-7D83-40F2-BB76-D370CDC3355E",
+    "name" : "INFO screen command go inside",
+    "keyword" : "INFO screen command go inside"
+  }
+}

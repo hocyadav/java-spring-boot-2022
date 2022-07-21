@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl logs -f {clipboard} -c listings-legacy-adapter --context legacy-prod --tail=50 --namespace fk-sp-slm-legacy-adapter",
+    "dontautoexpand" : true,
+    "uid" : "3C03D9C1-3631-44FD-9485-D48FE89F1ADF",
+    "name" : "LLA LOG PROD - legacy adapter",
+    "keyword" : "> l LLA LOG PROD - legacy adapter"
+  }
+}

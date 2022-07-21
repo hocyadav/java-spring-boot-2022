@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get pod --context mpe-preprod --namespace mp-pricing-engine-playground",
+    "uid" : "E351ECEF-54F5-460B-9FEB-2EB82617146A",
+    "name" : "mpe pod shipping engine",
+    "keyword" : "mpp"
+  }
+}

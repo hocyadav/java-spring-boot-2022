@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/flow.fkinternal.com\/#\/app\/pipeline\/deploy\/SLM\/2257\/executions",
+    "dontautoexpand" : true,
+    "uid" : "C900990C-1F2D-47CB-89D1-BF1119188602",
+    "name" : "~ flow enricher backend prod",
+    "keyword" : "~ flow enricher backend prod"
+  }
+}

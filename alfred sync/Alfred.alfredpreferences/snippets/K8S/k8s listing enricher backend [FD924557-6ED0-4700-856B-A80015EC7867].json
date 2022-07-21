@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.9.35\/#\/overview?namespace=fk-sp-slm-enricher-backend",
+    "dontautoexpand" : true,
+    "uid" : "FD924557-6ED0-4700-856B-A80015EC7867",
+    "name" : "~ k8s listing enricher backend",
+    "keyword" : "~ k8s listing enricher backend"
+  }
+}

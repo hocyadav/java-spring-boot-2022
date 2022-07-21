@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get all --context tls-preprod -n fk-sp-slm-legacy-adapter",
+    "dontautoexpand" : true,
+    "uid" : "6A47BFAD-5807-49AA-99E9-6B1C95C2B027",
+    "name" : "> LLA ALL Objects",
+    "keyword" : "> LLA ALL Objects "
+  }
+}

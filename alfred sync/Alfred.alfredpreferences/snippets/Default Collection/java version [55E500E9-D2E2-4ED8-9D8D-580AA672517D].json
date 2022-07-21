@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "java -version",
+    "dontautoexpand" : true,
+    "uid" : "55E500E9-D2E2-4ED8-9D8D-580AA672517D",
+    "name" : "> java version",
+    "keyword" : "> java version"
+  }
+}

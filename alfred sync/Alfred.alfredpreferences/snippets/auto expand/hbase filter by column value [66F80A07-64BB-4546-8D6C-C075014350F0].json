@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "get '3EmRxA:lst_rev_index', '03081455-e3e2-5292-ec94-69d9f832d076'\nscan '3EmRxA:lst_rev_index', {COLUMNS => ['d:l#LSTSRVFEGP56B8CTPYMHPZOFO']}",
+    "dontautoexpand" : true,
+    "uid" : "66F80A07-64BB-4546-8D6C-C075014350F0",
+    "name" : "hbase filter by column value",
+    "keyword" : "hbase filter by column value"
+  }
+}

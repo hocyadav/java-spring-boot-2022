@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "alias ll=\"ls -lash\"\n#ssh 10.53.66.159\n#sudoo\nsudo  HADOOP_HOME=\/opt\/hadoop\/ -Dmapreduce.job.user.classpath.first=true \/opt\/hive\/bin\/hive -hiveconf hive.root.logger=DEBUG,console",
+    "dontautoexpand" : true,
+    "uid" : "739564A9-E3EF-4DED-A87D-78C9D2CB8CC1",
+    "name" : "> hive stage step 0.2 (hadoop export)",
+    "keyword" : "> hive stage step 0.2 (hadoop export)"
+  }
+}

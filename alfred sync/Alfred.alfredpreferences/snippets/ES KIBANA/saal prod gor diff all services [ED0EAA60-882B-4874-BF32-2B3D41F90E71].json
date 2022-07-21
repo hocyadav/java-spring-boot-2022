@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.7.152\/gor-2022-06-*\/_search?q=payload:47226367e6044f6e%20AND%20payload:*services*",
+    "dontautoexpand" : true,
+    "uid" : "ED0EAA60-882B-4874-BF32-2B3D41F90E71",
+    "name" : "saal prod gor diff all services",
+    "keyword" : "saal prod gor diff all services"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "https:\/\/kubernetes.io\/docs\/reference\/kubectl\/cheatsheet\/",
+    "dontautoexpand" : true,
+    "uid" : "5636E7CA-2A9C-4674-89AB-B46B0BAEFBA4",
+    "name" : "k8s commands",
+    "keyword" : "k8s commands"
+  }
+}

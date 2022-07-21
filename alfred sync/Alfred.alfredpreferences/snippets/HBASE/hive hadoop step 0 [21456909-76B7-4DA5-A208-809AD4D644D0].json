@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "alias ll=\"ls -lash\"\nsudoo\nexport HADOOP_HOME=\/opt\/hadoop\/\nexport PATH=$PATH:\/opt\/hadoop\/bin\nexport HADOOP_INSTALL=\/opt\/hadoop\nexport HADOOP_CONF_DIR=$HADOOP_INSTALL\/etc\/hadoop\n#hadoop\n#hadoop fs -mkdir \/user\/hariom\/lib\n#hadoop fs -ls \/user\/\n#hadoop fs -put \/home\/yadav.hariom\/hyudf.jar \/user\/hariom\/lib\/\nhadoop{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "21456909-76B7-4DA5-A208-809AD4D644D0",
+    "name" : "> hive hadoop step 0",
+    "keyword" : "> hive hadoop  step 0 "
+  }
+}

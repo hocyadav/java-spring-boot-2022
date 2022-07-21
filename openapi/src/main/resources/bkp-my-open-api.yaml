@@ -1,0 +1,166 @@
+openapi: 3.0.0
+
+info:
+  version: 0.0.1
+  title: Listing Price Calculator Service
+  description: Listing Price Calculator Service
+
+tags:
+  - name: "ShippingPriceCalculator"
+
+paths:
+
+  /shipping-price:
+    post:
+      operationId: calculateShippingPrice
+      parameters:
+        - $ref: '#/components/parameters/client_id_header'
+
+      requestBody:
+        content:
+          application/json:
+#            schema:
+#              $ref: '#/components/schemas/PriceCalculateRequest'
+            schema:
+              type: array
+              items:
+                $ref: '#/components/schemas/ListingCriteria'
+        required: true
+
+      responses:
+        "200":
+          description: Price Calculate Response.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PriceCalculateResponse'
+
+        '400':
+          description: Bad request.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+
+        '500':
+          description: One or more internal errors prevented the request from suceeding.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+
+components:
+  schemas:
+    PriceCalculateRequest:
+      description: List of all listing price request.
+      type: object
+      properties:
+        requests:
+          type: array
+          readOnly: true
+          items:
+            $ref: '#/components/schemas/ListingCriteria'
+
+    ListingCriteria:
+      description: ListingCriteria Request data model.
+      type: object
+      properties:
+        criteria:
+          type: object
+          additionalProperties: true
+          example: "{seller_id : 47226367e6044f6e, vertical: services, brand: apple}"
+
+    PriceCalculateResponse:
+      description: List of all listing price response.
+      type: object
+      properties:
+        responses:
+          type: array
+          items:
+            $ref: '#/components/schemas/ListingPriceResponse'
+
+    ListingPriceResponse:
+      description: Listing Price Response data model.
+      type: object
+      properties:
+        id:
+          description: id.
+          type: string
+        local:
+          description: Local buyers shipping price.
+          type: string
+        zonal:
+          description: Zonal buyers shipping price.
+          type: string
+        national:
+          description: National buyers shipping price.
+          type: string
+
+    Error:
+      type: object
+      description: Represents an error.
+      required:
+        - code
+        - message
+        - status
+      properties:
+        code:
+          type: integer
+          format: int32
+          description: >
+            An error code. Error codes can be any of:
+            | Code  |       Description     |
+            |-------|-----------------------|
+            |   499 | Client Closed Request |
+            |   500 | Internal Server Error |
+            |   400 |       Bad Request     |
+            |   504 |     Gateway Timeout   |
+            |   404 |        Not Found      |
+            |   409 |    Conflict (Exists)  |
+            |   403 |        Forbidden      |
+            |   401 |       Unauthorized    |
+            |   429 |    Too many requests  |
+            |   400 |       Bad Request     |
+            |   501 |      Not Implemented  |
+            |   503 |   Service Unavailable |
+          readOnly: true
+        message:
+          type: string
+          description: The error message.
+        status:
+          description: Enum version of the code.
+          type: string
+          readOnly: true
+          enum:
+            - UNKNOWN
+            - CORRUPT_PAYLOAD
+            - CANCELLED
+            - INVALID_ARGUMENT
+            - DEADLINE_EXCEEDED
+            - NOT_FOUND
+            - ALREADY_EXISTS
+            - PERMISSION_DENIED
+            - UNAUTHENTICATED
+            - RESOURCE_EXHAUSTED
+            - FAILED_PRECONDITION
+            - ABORTED
+            - OUT_OF_RANGE
+            - UNIMPLEMENTED
+            - INTERNAL
+            - UNAVAILABLE
+            - DATA_LOSS
+        metadata:
+          description: Additional metadata that might be useful for further debugging.
+          type: object
+          additionalProperties: true
+
+  parameters:
+    client_id_header:
+      name: x-flipkart-client
+      description: Header to indicate the client.
+      in: header
+      required: true
+      example: sp.slm
+      schema:
+        type: string
+        default: sp.slm

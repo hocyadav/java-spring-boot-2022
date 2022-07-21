@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "\/usr\/libexec\/java_home -V\nexport JAVA_HOME=$(\/usr\/libexec\/java_home -v 14.0.2)\njava -version\n",
+    "dontautoexpand" : true,
+    "uid" : "942CDF0D-E057-4EE9-B785-CB617648AF0D",
+    "name" : "> java 14",
+    "keyword" : "> java 14"
+  }
+}

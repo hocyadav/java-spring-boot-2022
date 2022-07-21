@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# default path : open ~\/.kube\/config\nexport KUBECONFIG=~\/.kube\/listings\/config.yaml\n\n",
+    "dontautoexpand" : true,
+    "uid" : "7310DF3D-9871-471F-AA71-1CF85CC34FB1",
+    "name" : "> set k8s config",
+    "keyword" : "> set k8s config"
+  }
+}

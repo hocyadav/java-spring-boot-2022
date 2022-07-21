@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "tree -I 'build' -d -L 2",
+    "dontautoexpand" : true,
+    "uid" : "620384CC-E0DC-4733-BCF4-0377E8E2FC62",
+    "name" : "tree command directory level",
+    "keyword" : "tree command directory level"
+  }
+}

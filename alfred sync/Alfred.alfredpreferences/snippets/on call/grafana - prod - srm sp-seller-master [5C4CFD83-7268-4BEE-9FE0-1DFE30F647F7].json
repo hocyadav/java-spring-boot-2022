@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/cosmos.fkcloud.in\/dashboard\/script\/elb_backend_new.js?zone=in-hyderabad-1&backend=fk-sp-seller-master___fk-sp-sm-app-elb&stack=v3&panelId=2&fullscreen=&edit=&orgId=1&from=now-3h&to=now&refresh=1m",
+    "dontautoexpand" : true,
+    "uid" : "5C4CFD83-7268-4BEE-9FE0-1DFE30F647F7",
+    "name" : "grafana - prod - srm \/ sp-seller-master",
+    "keyword" : "grafana - prod - srm \/ sp-seller-master"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl config get-contexts",
+    "dontautoexpand" : true,
+    "uid" : "7DBACB2B-768C-4770-A506-7EA5DDB0EEDA",
+    "name" : "> all context",
+    "keyword" : "> all context"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get pods {clipboard} -o jsonpath='{.spec.containers[*].name}' --context tls-preprod --namespace fk-sp-slm-service",
+    "dontautoexpand" : true,
+    "uid" : "BDB67425-FBAC-49E3-98F2-6D42DE158387",
+    "name" : "> SP CMS containers",
+    "keyword" : "> c SP CMS containers"
+  }
+}

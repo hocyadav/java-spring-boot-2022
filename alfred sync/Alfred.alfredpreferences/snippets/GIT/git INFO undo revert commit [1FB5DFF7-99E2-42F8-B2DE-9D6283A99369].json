@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#1. git commit -m \"Something terribly misguided\"\n#2. git reset HEAD~\n#3. [ edit files as necessary ]\n#4. git add .\n#5. git commit -c ORIG_HEAD",
+    "dontautoexpand" : true,
+    "uid" : "1FB5DFF7-99E2-42F8-B2DE-9D6283A99369",
+    "name" : "> git INFO undo revert commit",
+    "keyword" : "> git INFO undo revert commit"
+  }
+}

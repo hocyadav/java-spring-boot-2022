@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl --location --request GET 'http:\/\/10.24.12.70\/v1\/gateway\/requests\/{clipboard}' \\\n--header 'content-type: application\/json' \\\n--header 'fk-seller-id: 19e4d415fc1f40da' \\\n--header 'X-Trace-Id: 21342112' \\\n--header 'x-callback-uri: http:\/\/www.google.com' | _json",
+    "dontautoexpand" : true,
+    "uid" : "892064F3-D25B-40F7-B54A-6EE25D5973EF",
+    "name" : "GET - cls stage request_id",
+    "keyword" : "GET - cls stage request_id"
+  }
+}

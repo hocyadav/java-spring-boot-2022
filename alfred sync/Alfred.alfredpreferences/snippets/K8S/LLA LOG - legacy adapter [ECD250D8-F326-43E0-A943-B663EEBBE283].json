@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#-c listings-legacy-adapter & cfgsvc-dns-proxy\nkubectl logs -f {clipboard} -c listings-legacy-adapter --context tls-preprod --tail=50 --namespace fk-sp-slm-legacy-adapter",
+    "dontautoexpand" : true,
+    "uid" : "ECD250D8-F326-43E0-A943-B663EEBBE283",
+    "name" : "> LLA LOG - legacy adapter",
+    "keyword" : "> l LLA LOG - legacy adapter"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "https:\/\/docs.spring.io\/spring-boot\/docs\/1.2.0.M1\/reference\/html\/howto-properties-and-configuration.html#howto-change-configuration-depending-on-the-environment",
+    "dontautoexpand" : true,
+    "uid" : "E707EAC4-CC8B-4EBB-88CB-E5F906086CCE",
+    "name" : "spring profile",
+    "keyword" : "spring profile"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl --location --request GET 'http:\/\/10.24.12.70\/v1\/materialized\/{clipboard}' \\\n--header 'Content-Type: application\/json' \\\n--header 'x-seller-id: 19e4d415fc1f40da' \\\n--header 'x-root-context: 0cccd8f1-8423-5854-b81f-8df55feb3b48' \\\n--header 'x-flipkart-client: sp.slm' \\\n--header 'x-priority: HIGH' | _json\n",
+    "dontautoexpand" : true,
+    "uid" : "E2C7FE91-C078-40C2-BB4C-17D1EAD48445",
+    "name" : "saal LST 1- cls martz",
+    "keyword" : "saal LST 1- cls martz"
+  }
+}

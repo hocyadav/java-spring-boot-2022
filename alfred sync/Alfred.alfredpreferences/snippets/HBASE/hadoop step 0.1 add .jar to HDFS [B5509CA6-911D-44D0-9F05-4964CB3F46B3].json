@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "hadoop fs -put \/home\/yadav.hariom\/hyudf.jar \/user\/hariom\/lib\/{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "B5509CA6-911D-44D0-9F05-4964CB3F46B3",
+    "name" : "> hadoop step 0.1 add .jar to HDFS",
+    "keyword" : "> hadoop step 0.1 add .jar to HDFS"
+  }
+}

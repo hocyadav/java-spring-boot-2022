@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "docker run --name cls-hbase -p 2181:2181 -p 8088:8088 -p 8085:8085 -p 9090:9090 -p 9095:9095 -p 16000:16000 -p 16010:16010 -p 16201:16201 -p 16301:16301 -d harisekhon\/hbase:2.1",
+    "dontautoexpand" : true,
+    "uid" : "4A07E311-E61D-414A-A0D7-F480520FCF5E",
+    "name" : "docker run hbase",
+    "keyword" : "docker run hbase - ravi"
+  }
+}

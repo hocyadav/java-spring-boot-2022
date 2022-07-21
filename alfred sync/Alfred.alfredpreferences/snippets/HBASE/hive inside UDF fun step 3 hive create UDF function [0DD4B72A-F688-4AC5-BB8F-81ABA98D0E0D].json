@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "CREATE TEMPORARY FUNCTION saal_listings_data AS 'com.flipkart.marketplace.listings.data.udf.saal.SaalListingTransformerUDF';\nCREATE TEMPORARY FUNCTION listings_id_generator AS 'com.flipkart.marketplace.listings.data.udf.common.ListingIdGeneratorUDF';\nCREATE TEMPORARY FUNCTION seller_id_extractor AS 'com.flipkart.marketplace.listings.data.udf.common.SellerIdExtractorUDF';\nCREATE TEMPORARY FUNCTION saal_listing_predicate AS 'com.flipkart.marketplace.listings.data.udf.saal.SaalListingPredicateUDF';\nCREATE TEMPORARY FUNCTION state_entity_data AS 'com.flipkart.marketplace.listings.data.udf.common.ListingStateTransformerUDF';\nCREATE TEMPORARY FUNCTION materialize_listing AS 'com.flipkart.marketplace.listings.data.udf.common.MaterializeUDF';{cursor}\n\n",
+    "dontautoexpand" : true,
+    "uid" : "0DD4B72A-F688-4AC5-BB8F-81ABA98D0E0D",
+    "name" : "hive inside UDF fun step 3\n> hive create UDF function",
+    "keyword" : "hive inside UDF fun step 3\n> hive create UDF function"
+  }
+}

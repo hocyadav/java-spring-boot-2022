@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "alias ll=\"ls -lash\"\nalias l=\"ls -lash\"\n",
+    "uid" : "C2EA1F56-595A-40E8-AB07-D9A67758B4E1",
+    "name" : "> alias",
+    "keyword" : ":al"
+  }
+}

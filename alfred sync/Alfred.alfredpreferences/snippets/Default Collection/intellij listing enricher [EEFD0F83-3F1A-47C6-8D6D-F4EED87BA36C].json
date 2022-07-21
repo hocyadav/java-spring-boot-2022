@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# 1 > set java 8 + connect vpn via \"Open Pulse Secure\" not \"Global Protect\"\n\n$java --version\n$export JAVA_HOME=$(\/usr\/libexec\/java_home -v 1.8.0_291)\n\n# 2 > build local and run (Readme.md : http:\/\/github.fkinternal.com\/Flipkart\/listings-enricher\/blob\/85f1a0c8b61bce3b069b72486073812252c99aac\/README.md#L1-L1)\n\n$.\/gradlew clean build\n$.\/gradlew runService ",
+    "dontautoexpand" : true,
+    "uid" : "EEFD0F83-3F1A-47C6-8D6D-F4EED87BA36C",
+    "name" : "intellij listing enricher",
+    "keyword" : "intellij listing enricher "
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl -XGET \"http:\/\/localhost:9200\/vehicles\/car\/12hyQn4BtVK8TnyX_MhM\/_source?pretty\"",
+    "dontautoexpand" : true,
+    "uid" : "675F8C1C-B757-43B2-8D6E-6BB55D54C1DE",
+    "name" : "> kibana - get one doc CLI curl",
+    "keyword" : "> kibana get one doc CLI curl"
+  }
+}

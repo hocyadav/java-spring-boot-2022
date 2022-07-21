@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl exec -it {clipboard} -c gor-sidecar-container --context tls-preprod --namespace fk-sp-slm-the-listing-service -- bash",
+    "dontautoexpand" : true,
+    "uid" : "7D4B8767-F34D-4C77-8E27-6C78F200C00B",
+    "name" : "> TLS EXEC container GOR",
+    "keyword" : "> TLS EXEC container GOR"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "figlet -k \"{clipboard}\"\n{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "3F1A70A4-FA8E-4EFC-B77E-51F4DB45659B",
+    "name" : "title",
+    "keyword" : "title"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl logs -f -lapp.kubernetes.io\/instance=fk-sp-slm-service -c sp-cms --max-log-requests 16 --context slm-service-prod > ~\/Desktop\/out",
+    "dontautoexpand" : true,
+    "uid" : "8705F192-EA68-4BF9-8955-EC304FCECF0B",
+    "name" : "slm prod all pods logs",
+    "keyword" : "slm prod all pods logs"
+  }
+}

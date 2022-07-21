@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#sudoo\nsudo  HADOOP_HOME=\/opt\/hadoop\/ -Dmapreduce.job.user.classpath.first=true \/opt\/hive\/bin\/hive -hiveconf hive.root.logger=WARN,console",
+    "dontautoexpand" : true,
+    "uid" : "AEF2090A-594B-433D-9274-530D4E1A21A9",
+    "name" : "> hive start WARN step 2",
+    "keyword" : "> hive start WARN step 2"
+  }
+}

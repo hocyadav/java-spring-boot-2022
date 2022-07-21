@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#1 go to url http:\/\/10.24.9.10\/harbor\/projects\/16\/repositories\/tools%2Fgor\n#2 use in k8s deployment : image: container-registry.alm.fkcloud.in\/sp-slm\/tools\/gor:1.0.2.v2\n#3 copy pull command from UI & download local using below command \ndocker pull 10.24.9.10\/sp-slm\/tools\/gor@sha256:d1f5a9b448b31d2b491d3b152bdf6f6ad16ed1cc7f700421b37c34f11f079d9c",
+    "dontautoexpand" : true,
+    "uid" : "D4D64951-DD3F-436D-9E31-386F60FF9B18",
+    "name" : "harbor docker pull sample",
+    "keyword" : "harbor docker pull sample"
+  }
+}

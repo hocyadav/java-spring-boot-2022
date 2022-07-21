@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "-- \n-- https:\/\/stackoverflow.com\/questions\/35897766\/hiveql-statement-for-listing-all-available-functions\/35912534\n--\n-- SHOW FUNCTIONS;\n-- DESCRIBE FUNCTION <function_name>;\n-- DESCRIBE FUNCTION EXTENDED <function_name>;\n-- \nDESCRIBE FUNCTION {clipboard};{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "A1C016CA-587C-4694-A76C-27158923E47B",
+    "name" : "> hive function",
+    "keyword" : "> hive function"
+  }
+}

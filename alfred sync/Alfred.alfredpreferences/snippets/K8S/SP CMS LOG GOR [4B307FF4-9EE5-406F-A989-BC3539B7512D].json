@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# cfgsvc-dns-proxy sp-cms gor-sidecar-containe\nkubectl logs -f {clipboard} -c gor-sidecar-container --context tls-preprod --tail=50 --namespace fk-sp-slm-service",
+    "dontautoexpand" : true,
+    "uid" : "4B307FF4-9EE5-406F-A989-BC3539B7512D",
+    "name" : "> SP CMS LOG GOR",
+    "keyword" : "> l SP CMS LOG GOR"
+  }
+}

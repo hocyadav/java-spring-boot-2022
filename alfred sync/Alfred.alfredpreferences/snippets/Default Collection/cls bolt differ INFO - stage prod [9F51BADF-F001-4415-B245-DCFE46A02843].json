@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "10.50.114.138 -> prod \n\n\/data\/1\/DIFFER\n\n.\/cls_bolt_differ --bolt-uri \"http:\/\/10.24.3.75:9000\/entity\/listing?ids=\" --materializer-uri \"http:\/\/10.24.14.88\/v1\/materialized\/\" --config  flo-digital.toml --listing-id LSTDGVG9BCYNPPVZ9HYGQFHRP --json\n\n\nThe bolt differ tool is installed on \n10.53.162.184 -> stage\n\npath: \/data\/1\/DIFFER\n\n.\/cls_bolt_differ --bolt-uri \"http:\/\/10.24.3.86:9000\/entity\/listing?ids=\" --materializer-uri \"http:\/\/10.24.12.70\/v1\/materialized\/\" --config vrp-config.toml --listing-id LSTPEXEGE8YW9WNPGV5IHY2FH --json",
+    "dontautoexpand" : true,
+    "uid" : "9F51BADF-F001-4415-B245-DCFE46A02843",
+    "name" : "cls bolt differ INFO - stage & prod",
+    "keyword" : "cls bolt differ INFO stage & prod"
+  }
+}

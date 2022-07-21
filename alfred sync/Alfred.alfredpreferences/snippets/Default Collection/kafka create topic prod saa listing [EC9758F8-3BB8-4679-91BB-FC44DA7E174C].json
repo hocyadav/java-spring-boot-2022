@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.7.93\/clusters\/Production\/topics\/create",
+    "dontautoexpand" : true,
+    "uid" : "EC9758F8-3BB8-4679-91BB-FC44DA7E174C",
+    "name" : "kafka create topic prod saa listing",
+    "keyword" : "kafka create topic prod saa listing"
+  }
+}

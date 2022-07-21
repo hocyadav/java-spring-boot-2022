@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/capacityplanner.fkinternal.com\/apps\/fk-sp-slm-hbase-backup\/instances",
+    "dontautoexpand" : true,
+    "uid" : "7A146B32-99F0-41C8-8959-B78F0AB6272C",
+    "name" : "prod hbase ip and instance name",
+    "keyword" : "prod hbase ip and instance name"
+  }
+}

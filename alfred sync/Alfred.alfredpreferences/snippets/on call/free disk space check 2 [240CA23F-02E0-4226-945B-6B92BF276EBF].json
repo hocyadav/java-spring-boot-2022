@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "df -Th",
+    "dontautoexpand" : true,
+    "uid" : "240CA23F-02E0-4226-945B-6B92BF276EBF",
+    "name" : "free disk space check 2",
+    "keyword" : "free disk space check 2"
+  }
+}

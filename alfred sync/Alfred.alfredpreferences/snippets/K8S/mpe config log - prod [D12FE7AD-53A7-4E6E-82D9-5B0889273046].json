@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl logs -f {clipboard} -c mpe-configurator-service --context mpe-prod --tail=50 --namespace fk-sp-mp-pricing-engine-prod",
+    "uid" : "D12FE7AD-53A7-4E6E-82D9-5B0889273046",
+    "name" : "mpe config log - prod",
+    "keyword" : ":mp2l"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "rm \/data\/1\/hive\/metastore_db\/*.lck\n\n",
+    "dontautoexpand" : true,
+    "uid" : "6E80D353-5E7B-49CB-968C-BC5EC1C55CAE",
+    "name" : "clean fix hive console stage",
+    "keyword" : "clean fix hive console stage"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "https:\/\/developer.confluent.io\/tutorials\/kafka-console-consumer-read-specific-offsets-partitions\/confluent.html",
+    "dontautoexpand" : true,
+    "uid" : "FE3BA78F-74FE-4D77-BE91-A163CFA83D3B",
+    "name" : "kafka 1 consumer to 1 partition",
+    "keyword" : "kafka 1 consumer to 1 partition "
+  }
+}

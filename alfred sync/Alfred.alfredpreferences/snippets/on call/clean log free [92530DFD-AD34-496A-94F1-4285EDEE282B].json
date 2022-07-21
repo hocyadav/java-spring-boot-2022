@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#1. ls -lash | sort -hr\n#2. tail -5 filename \/or\/ head -5 file1 file2 file2..\n#3. rm -f filename\n#4. df -h",
+    "dontautoexpand" : true,
+    "uid" : "92530DFD-AD34-496A-94F1-4285EDEE282B",
+    "name" : "clean log free",
+    "keyword" : "clean log free"
+  }
+}

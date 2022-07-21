@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : " .\/gradlew -Dtest.ignoreFailures=true -Dcheckstyle.ignoreFailures=true clean build jacocoTestReport -x test",
+    "dontautoexpand" : true,
+    "uid" : "623E098A-2078-43D6-A4CF-1B9B147C27EA",
+    "name" : "gradle build exclude test - listings",
+    "keyword" : "gradle build exclude test - listings"
+  }
+}

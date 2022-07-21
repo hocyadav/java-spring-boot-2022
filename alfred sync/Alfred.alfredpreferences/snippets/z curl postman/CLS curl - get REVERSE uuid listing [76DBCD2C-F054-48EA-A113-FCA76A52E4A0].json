@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl --location --request GET 'http:\/\/10.24.12.70\/v1\/listings\/{clipboard}' \\\n--header 'x-flipkart-client: test' | _json{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "76DBCD2C-F054-48EA-A113-FCA76A52E4A0",
+    "name" : "> CLS curl - get REVERSE uuid listing",
+    "keyword" : "> CLS curl - get REVERSE uuid listing"
+  }
+}

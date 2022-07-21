@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : ".\/gradlew clean build",
+    "dontautoexpand" : true,
+    "uid" : "68000967-85D2-4EE6-8276-BC16E9270CA6",
+    "name" : "> gradle build",
+    "keyword" : "> gradle build"
+  }
+}

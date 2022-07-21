@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#spcms-job-ro \/ wJlE5FcdQZ\nssh -N -L 3308:10.49.37.157:3306 10.54.114.179",
+    "dontautoexpand" : true,
+    "uid" : "BD0565F7-C6BE-498C-8EE8-0E67027F878E",
+    "name" : "spcms prod mysql jumphost",
+    "keyword" : "spcms prod mysql jumphost"
+  }
+}

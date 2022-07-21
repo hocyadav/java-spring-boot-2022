@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.9.35\/#\/overview?namespace=fk-sp-slm-service",
+    "dontautoexpand" : true,
+    "uid" : "460D8D79-01A6-4814-ADB5-6255F81F0772",
+    "name" : "k8s stage ~",
+    "keyword" : "k8s stage"
+  }
+}

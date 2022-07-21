@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "GET _cat\/indices",
+    "dontautoexpand" : true,
+    "uid" : "56A2BEE7-3C52-41D0-BAAF-577985424171",
+    "name" : "~ kibana all indices index",
+    "keyword" : "~ kibana all indices index"
+  }
+}

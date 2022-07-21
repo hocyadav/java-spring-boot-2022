@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "PUT \/vehicles\/123\/uGhfQn4BtVK8TnyX-8gd\n{\n  \"color\": \"green\",\n  \"number\":12344\n}",
+    "dontautoexpand" : true,
+    "uid" : "0B73ED03-D5D4-4AD6-9A37-7B7CB5D9F375",
+    "name" : "> kibana - update doc",
+    "keyword" : "> kibana update doc"
+  }
+}

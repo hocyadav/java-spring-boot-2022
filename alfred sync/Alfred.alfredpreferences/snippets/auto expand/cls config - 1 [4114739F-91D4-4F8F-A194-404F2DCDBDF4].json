@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ports.outbound.listings.uri=http:\/\/10.24.12.70:80\/v1",
+    "dontautoexpand" : true,
+    "uid" : "4114739F-91D4-4F8F-A194-404F2DCDBDF4",
+    "name" : "cls config - 1",
+    "keyword" : "cls config - 1"
+  }
+}

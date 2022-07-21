@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl logs -f {clipboard} -c fk-sp-slm-libertalia-service --context libertalia-preprod --tail=50 --namespace fk-sp-slm-libertalia-service",
+    "dontautoexpand" : true,
+    "uid" : "8620DCB3-8FDE-4995-B1E2-EEE1649477BD",
+    "name" : "k8s libertalia stage LOG",
+    "keyword" : "k8s libertalia stage LOG"
+  }
+}

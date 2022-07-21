@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/localhost:16010\/master-status",
+    "dontautoexpand" : true,
+    "uid" : "E4D4A81C-4CDF-4291-9EF6-B79EBBEEB686",
+    "name" : "hbase local",
+    "keyword" : "hbase local"
+  }
+}

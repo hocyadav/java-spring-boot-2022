@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "count '{clipboard}'",
+    "dontautoexpand" : true,
+    "uid" : "0E36D752-918F-4CF3-9D10-B9E8C17EE4DA",
+    "name" : "hbase count row",
+    "keyword" : "hbase count row"
+  }
+}

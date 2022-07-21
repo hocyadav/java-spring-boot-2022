@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "Stream is like a river and flux is like a tap.\nIn first case water flows on it's own pace and you as consumer have no control over it and you can take water from it but if you don't the water goes away.\nIn second case you as a consumer can control when and how much water you want by requesting it.",
+    "dontautoexpand" : true,
+    "uid" : "60FE271D-AD89-4AB0-BD2C-D73A6BF55264",
+    "name" : "stream java INFO",
+    "keyword" : "stream java INFO"
+  }
+}

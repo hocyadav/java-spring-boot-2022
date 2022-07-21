@@ -1,21 +1,18 @@
 package io.hari.zerooneentity.entity;
 
-import io.hari.zerooneentity.entity.attribute.ContestQues;
+import io.hari.zerooneentity.entity.attribute.UserContest;
 import lombok.*;
 
-import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
 
-@Getter @Setter @NoArgsConstructor @AllArgsConstructor @ToString(exclude = {"id"})
+@Getter @Setter @NoArgsConstructor @AllArgsConstructor @ToString(callSuper = true, exclude = {"id"})
 @Builder
 @Entity
-@Table(name = "contests")
-public class Contest extends BaseEntity{
+@Table(name = "users")
+public class User extends BaseEntity{
 
-    @Column(name = "contest_name")
-    private String contest;
+    private String name;
 
-//    @Convert(converter = ContestQuesAttributeConverter.class) //@Converter + autoApply true
-    private ContestQues contestQues;
+    private UserContest userContest;
 }

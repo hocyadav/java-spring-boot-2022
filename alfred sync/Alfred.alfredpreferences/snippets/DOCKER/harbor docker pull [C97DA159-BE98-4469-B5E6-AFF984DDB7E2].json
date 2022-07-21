@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# http:\/\/10.24.9.10\/harbor\/projects\/16\/repositories\/tools%2Fslm-gradle\ndocker pull 10.24.9.10\/sp-slm\/tools\/slm-gradle@sha256:b90fa8b6165d8dbc0efb7a112664716af1fd5589c0a8ecf4be70dc49daa5b365",
+    "dontautoexpand" : true,
+    "uid" : "C97DA159-BE98-4469-B5E6-AFF984DDB7E2",
+    "name" : "> harbor docker pull",
+    "keyword" : "> harbor docker pull"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/cosmos.fkcloud.in\/dashboard\/script\/elb_frontend_new.js?zone=in-hyderabad-1&frontend=fk-sp-slm-listing-service___fk-sp-slm-listing-service-vip&stack=v3&orgId=1&refresh=1m&search=open&query=&tag=slm",
+    "dontautoexpand" : true,
+    "uid" : "868FBB37-3D61-49BE-9D8C-A8C47D461F22",
+    "name" : "grafana ALL prod",
+    "keyword" : "grafana ALL prod"
+  }
+}

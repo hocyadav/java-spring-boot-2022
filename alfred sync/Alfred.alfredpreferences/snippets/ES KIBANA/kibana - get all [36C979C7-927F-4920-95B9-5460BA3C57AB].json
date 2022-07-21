@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "GET \/vehicles\/_search\n{\n  \"query\": {\n    \"match_all\": {}\n  }\n}",
+    "dontautoexpand" : true,
+    "uid" : "36C979C7-927F-4920-95B9-5460BA3C57AB",
+    "name" : "~ kibana - get all",
+    "keyword" : "~ kibana get all"
+  }
+}

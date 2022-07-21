@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# step 0: add to HDFS , run outside hive console\n#\n#hadoop fs -ls \/user\/hariom\/lib\n#hadoop fs -put \/home\/yadav.hariom\/hyudf.jar \/user\/hariom\/lib\/\n#\n#run inside hive console \n#\nADD jar \/home\/yadav.hariom\/hyudf.jar{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "CBD02A7B-8323-4B80-8F9C-6CF1CD6B0249",
+    "name" : "> hive ADD jar - step 2 INFO",
+    "keyword" : "> hive ADD jar - step 2 INFO"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/cosmos.fkcloud.in\/dashboard\/script\/elb_backend_new.js?zone=in-hyderabad-1&backend=fk-sp-slm-legacy-adapter___listings-legacy-adapter-prod&stack=v3&orgId=1&refresh=1m&from=now-3h&to=now",
+    "dontautoexpand" : true,
+    "uid" : "DC7FA7ED-DD59-422C-AA71-6127E8BB1905",
+    "name" : "cls prod after deployment 2",
+    "keyword" : "cls prod after deployment 2"
+  }
+}

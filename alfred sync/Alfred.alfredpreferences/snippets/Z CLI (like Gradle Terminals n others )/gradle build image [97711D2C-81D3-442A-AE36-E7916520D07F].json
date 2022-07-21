@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : ".\/gradlew --no-daemon -Dtest.ignoreFailures=true -Dcheckstyle.ignoreFailures=false clean build bootBuildImage",
+    "dontautoexpand" : true,
+    "uid" : "97711D2C-81D3-442A-AE36-E7916520D07F",
+    "name" : "> gradle build image",
+    "keyword" : "> gradle build image"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get pod --context tls-preprod --namespace fk-sp-slm-legacy-adapter\n",
+    "dontautoexpand" : true,
+    "uid" : "1E360A8A-650E-4B95-BF99-EA4F4AF9A79B",
+    "name" : "> LLA POD - legacy adapter",
+    "keyword" : "> p LLA POD - legacy adapter"
+  }
+}

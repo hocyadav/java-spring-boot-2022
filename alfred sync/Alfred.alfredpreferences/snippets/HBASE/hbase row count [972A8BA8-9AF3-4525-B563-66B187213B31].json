@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#hbase> count 't1'\n#hbase> count 't1', INTERVAL => 100000\n#hbase> count 't1', CACHE => 1000\n#hbase> count 't1', INTERVAL => 10, CACHE => 1000\ncount 'staging'{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "972A8BA8-9AF3-4525-B563-66B187213B31",
+    "name" : "> hbase row count",
+    "keyword" : "> hbase row count"
+  }
+}

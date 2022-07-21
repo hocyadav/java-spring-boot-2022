@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "scan '{clipboard}', {'LIMIT' => 1}{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "28114717-91FD-4B45-B68C-FCB7EAF81675",
+    "name" : "> hbase LIMIT SQL",
+    "keyword" : "> hbase LIMIT SQL"
+  }
+}

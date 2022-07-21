@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/console-hyd.workflow-prod.fkcloud.in\/users\/k8s-access",
+    "dontautoexpand" : true,
+    "uid" : "E32F9F76-EF6C-4665-AA63-5B68384DC052",
+    "name" : "k8s prod stage access",
+    "keyword" : "k8s prod stage access"
+  }
+}

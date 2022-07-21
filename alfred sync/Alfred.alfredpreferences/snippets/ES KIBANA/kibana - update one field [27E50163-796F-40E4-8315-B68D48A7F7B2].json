@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "POST \/vehicles\/car\/12\/_update\n{\n  \"doc\" :{\n    \"color\": \"white\"\n  }\n}",
+    "dontautoexpand" : true,
+    "uid" : "27E50163-796F-40E4-8315-B68D48A7F7B2",
+    "name" : "> kibana - update one field",
+    "keyword" : "> kibana - update one field"
+  }
+}

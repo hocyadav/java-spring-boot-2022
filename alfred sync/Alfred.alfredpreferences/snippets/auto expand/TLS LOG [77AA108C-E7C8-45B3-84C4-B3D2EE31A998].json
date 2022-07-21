@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#-c [nginx-sidecar fk-sp-slm-the-listing-service gor-sidecar-container]\n#kubectl logs -f {clipboard} -c fk-sp-slm-the-listing-service --context tls-preprod --namespace fk-sp-slm-the-listing-service\n#kubectl logs -f {clipboard} -c fk-sp-slm-the-listing-service --context tls-preprod --namespace fk-sp-slm-the-listing-service\nkubectl logs -f  {clipboard}  -c fk-sp-slm-the-listing-service --context tls-preprod --tail=50 --namespace fk-sp-slm-the-listing-service",
+    "uid" : "77AA108C-E7C8-45B3-84C4-B3D2EE31A998",
+    "name" : "> TLS LOG",
+    "keyword" : "tlsl"
+  }
+}

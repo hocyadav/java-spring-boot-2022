@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/cosmos.fkcloud.in\/dashboard\/script\/elb_backend_new.js?zone=in-hyderabad-1&backend=fk-sp-slm-listings___listings-prod&stack=v3&orgId=1&refresh=1m&from=now-3h&to=now",
+    "dontautoexpand" : true,
+    "uid" : "2E75E879-A254-4558-949A-B8AE0CDCB311",
+    "name" : "cls prod after deployment  1",
+    "keyword" : "cls prod after deployment  1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# https:\/\/stackoverflow.com\/questions\/51097553\/can-i-have-multiple-values-yaml-files-for-helm\nhelm install --debug --dry-run --generate-name .\/deployment\/helm\/mpe-configurator --values .\/deployment\/helm\/mpe-configurator\/values.stage.yaml",
+    "dontautoexpand" : true,
+    "uid" : "B04459E0-BBFE-4777-8E98-59B16FA8134D",
+    "name" : "helm dry run using specific value.yml",
+    "keyword" : "helm dry run using specific value.yml"
+  }
+}

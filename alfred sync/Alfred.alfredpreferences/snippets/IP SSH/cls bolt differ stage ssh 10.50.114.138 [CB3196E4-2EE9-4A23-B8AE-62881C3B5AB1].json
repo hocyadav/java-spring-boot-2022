@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# then go to --> cd \/data\/1\/DIFFER\nssh 10.53.162.184",
+    "dontautoexpand" : true,
+    "uid" : "CB3196E4-2EE9-4A23-B8AE-62881C3B5AB1",
+    "name" : "> cls bolt differ stage ssh 10.50.114.138",
+    "keyword" : "> cls bolt differ stage ssh 10.50.114.138"
+  }
+}

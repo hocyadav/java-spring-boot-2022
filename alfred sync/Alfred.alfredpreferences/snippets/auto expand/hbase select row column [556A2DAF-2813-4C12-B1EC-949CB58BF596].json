@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#scan '3EmRxA:listings'\n#scan '3EmRxA:listings', {'LIMIT' => 1}\n\n#get '3EmRxA:listings', '<row1>', {COLUMN => 'col1'}\n#get '3EmRxA:listings', '0308066c-6bd6-52ed-81a0-b8a7988b8732', {COLUMN => 'd:f#address_label'}\n",
+    "dontautoexpand" : true,
+    "uid" : "556A2DAF-2813-4C12-B1EC-949CB58BF596",
+    "name" : "hbase select row + column",
+    "keyword" : "hbase select row + column"
+  }
+}

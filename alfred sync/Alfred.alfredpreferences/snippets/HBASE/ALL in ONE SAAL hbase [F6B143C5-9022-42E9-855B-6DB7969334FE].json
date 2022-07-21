@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# 1 gateway request : gateway req uuid id\n#get '3EmRxA:gateway_requests', '030883c9-87da-5b99-f796-3134e3e91fb9'\n\n# 2 orch request : orch req uuid id\n#get '3EmRxA:orch_requests', '030817cf-cdc2-5569-e965-91fd04a6a817'\n\n# 3 listings persistence : listing entity uuid\nget '3EmRxA:listings', '{clipboard}'\n\n# 4 state signal : listing entity uuid\nget '3EmRxA:listing_states', '0cccd8f1-8423-5854-b81f-8df55feb3b48:{clipboard}'\n\n# 5 mtrz listing : listing entity uuid id\nget '3EmRxA:lst_rev_index', '{clipboard}'\n",
+    "dontautoexpand" : true,
+    "uid" : "F6B143C5-9022-42E9-855B-6DB7969334FE",
+    "name" : "> ALL in ONE SAAL hbase",
+    "keyword" : "> ALL in ONE SAAL hbase "
+  }
+}

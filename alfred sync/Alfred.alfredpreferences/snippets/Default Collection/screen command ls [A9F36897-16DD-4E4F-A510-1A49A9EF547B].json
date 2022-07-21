@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "screen -ls",
+    "dontautoexpand" : true,
+    "uid" : "A9F36897-16DD-4E4F-A510-1A49A9EF547B",
+    "name" : "screen command ls",
+    "keyword" : "screen command ls"
+  }
+}

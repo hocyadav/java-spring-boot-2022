@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "https:\/\/docs.cloudera.com\/HDPDocuments\/HDP2\/HDP-2.5.3\/bk_command-line-installation\/content\/create_directories_on_hdfs.html",
+    "dontautoexpand" : true,
+    "uid" : "10158D98-F7FA-4B28-BCBA-FF889CBFEE4A",
+    "name" : "hadoop command create directory",
+    "keyword" : "hadoop command create directory"
+  }
+}

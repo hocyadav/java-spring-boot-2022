@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# https:\/\/stackoverflow.com\/questions\/5189560\/squash-my-last-x-commits-together-using-git\n# 1. git reset --soft HEAD~3 &&\n# 2. git commit",
+    "dontautoexpand" : true,
+    "uid" : "8B031C18-1E97-4E77-930B-1084D5CAE9BE",
+    "name" : "git combine merge many commit into one",
+    "keyword" : "git combine merge many commit into one"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#1. move pointer 2 step back\ngit reset --hard HEAD~2\n#2. check last commit changes\ngit show 50695b217330689c0d1e55fd2b6d813406b2cbc2\n#3. push my new pointer to git repo, -f force\ngit push origin gateway-async-priority-fix\n#4. then pull master and sync",
+    "dontautoexpand" : true,
+    "uid" : "7FF17BC2-E615-4C18-B58A-06B7F94FAA26",
+    "name" : "git revert last 2 commit remote + local",
+    "keyword" : "git revert last 2 commit remote + local"
+  }
+}

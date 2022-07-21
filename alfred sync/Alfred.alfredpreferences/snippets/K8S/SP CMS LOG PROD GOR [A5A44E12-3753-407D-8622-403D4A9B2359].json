@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl logs -f {clipboard} -c gor-sidecar-container --context spcms-prod --tail=50 --namespace fk-sp-slm-service",
+    "dontautoexpand" : true,
+    "uid" : "A5A44E12-3753-407D-8622-403D4A9B2359",
+    "name" : "SP CMS LOG PROD GOR",
+    "keyword" : "> l SP CMS LOG PROD GOR"
+  }
+}

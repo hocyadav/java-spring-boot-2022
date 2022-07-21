@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#spcms-bk-rw \/ dhhA7IBZWX\nssh -N -L 3308:10.52.178.218:3306 10.53.66.159\n\n",
+    "dontautoexpand" : true,
+    "uid" : "56428081-2A1D-4202-85FA-CABC9555EED8",
+    "name" : "spcms stage mysql jumphost",
+    "keyword" : "spcms stage mysql jumphost"
+  }
+}

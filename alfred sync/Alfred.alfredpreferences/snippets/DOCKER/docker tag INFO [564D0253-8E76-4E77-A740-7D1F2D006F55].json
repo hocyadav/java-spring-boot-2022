@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#docker tag 134919a0257e 10.24.6.41:80\/mp\/the-listing-service\/gor-unprivileged-middleware:1.0.0.spcms.v3",
+    "dontautoexpand" : true,
+    "uid" : "564D0253-8E76-4E77-A740-7D1F2D006F55",
+    "name" : "docker tag INFO",
+    "keyword" : "docker tag INFO"
+  }
+}

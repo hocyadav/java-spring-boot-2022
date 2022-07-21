@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh -N -L localhost:9200:10.53.50.155:9200 10.53.50.92",
+    "dontautoexpand" : true,
+    "uid" : "F10BB1F5-4CD8-4405-972E-87E375E9D604",
+    "name" : "es stage libertalia jumphost",
+    "keyword" : "es stage libertalia jumphost"
+  }
+}

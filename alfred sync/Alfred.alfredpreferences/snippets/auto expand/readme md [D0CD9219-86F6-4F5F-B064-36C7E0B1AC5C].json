@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "> **Tip**: List all releases using `helm list`",
+    "dontautoexpand" : true,
+    "uid" : "D0CD9219-86F6-4F5F-B064-36C7E0B1AC5C",
+    "name" : "readme md",
+    "keyword" : "readme md"
+  }
+}

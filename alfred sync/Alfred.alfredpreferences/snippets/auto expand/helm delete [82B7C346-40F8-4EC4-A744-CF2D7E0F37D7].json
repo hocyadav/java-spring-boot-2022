@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#helm delete -n default konohagakure-zookeeper",
+    "dontautoexpand" : true,
+    "uid" : "82B7C346-40F8-4EC4-A744-CF2D7E0F37D7",
+    "name" : "helm delete",
+    "keyword" : "helm delete"
+  }
+}

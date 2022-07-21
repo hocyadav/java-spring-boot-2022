@@ -1,0 +1,51 @@
+openapi: 3.0.3
+info:
+  version: "1.0.0"
+  title: Marketplace Pricing Engine API
+  contact:
+    name: SLM Dev
+    url: 'https://sites.google.com/flipkart.com/marketplaces-may-newsletter/home#h.r5xe4pbg9ct9'
+    email: sp-slm-dev@flipkart.com
+  description: >
+    # Marketplace Pricing Engine API
+    Configure pricing policies for marketplace listings.
+tags:
+  - name: Configurator
+    description: Pricing policy configurator
+paths:
+  /component/{price_component}/rules:
+    post:
+      operationId: configurePriceComponentRules
+      parameters:
+        - $ref: '#/components/parameters/client_id_header'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PriceComponentRuleset'
+        required: true
+      responses:
+        '200':
+          description: Successfully configured.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PriceComponentRuleset'
+components:
+  schemas:
+    PriceComponentRuleset:
+      type: object
+      properties:
+        id:
+          type: integer
+          description: Ruleset ID
+  parameters:
+    client_id_header:
+      name: x-flipkart-client
+      description: Header to indicate the client.
+      in: header
+      required: true
+      example: sp.slm
+      schema:
+        type: string
+        default: sp.slm

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh -N -D 5600 10.33.130.216",
+    "dontautoexpand" : true,
+    "uid" : "373DE1C5-CA65-439B-A5D1-5B445AE5035C",
+    "name" : "hadoop console jumphost prod",
+    "keyword" : "hadoop console jumphost prod"
+  }
+}

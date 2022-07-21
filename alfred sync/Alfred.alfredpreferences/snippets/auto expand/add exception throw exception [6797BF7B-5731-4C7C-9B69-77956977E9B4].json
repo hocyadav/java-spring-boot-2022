@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "if (1==1) throw new RuntimeException(\"oops\");",
+    "dontautoexpand" : true,
+    "uid" : "6797BF7B-5731-4C7C-9B69-77956977E9B4",
+    "name" : "add exception throw exception",
+    "keyword" : "add exception throw exception"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "date\ndate +\"%s\"\n",
+    "dontautoexpand" : true,
+    "uid" : "F6BCE24B-BD78-473A-9F30-E06343B3CF7C",
+    "name" : "epoc time",
+    "keyword" : "epoc time"
+  }
+}

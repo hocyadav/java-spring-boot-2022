@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get all --context tls-preprod -n fk-sp-slm-service",
+    "dontautoexpand" : true,
+    "uid" : "D40514AC-A6AC-4A5E-9C47-D366D0401FBD",
+    "name" : "> SP CMS All Objects",
+    "keyword" : "> SP CMS All Objects"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "DROP TABLE IF EXISTS saal_matzr_failed2;",
+    "dontautoexpand" : true,
+    "uid" : "4008F826-943A-4C67-AA14-967A422B394A",
+    "name" : "> hive delete drop table",
+    "keyword" : "> hive delete drop table"
+  }
+}

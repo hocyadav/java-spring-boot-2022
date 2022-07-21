@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "SELECT saal_listings_data(key, value) AS persistence_entity, state_entity_data(value) AS state_entity, listings_id_generator(\"0cccd8f1-8423-5854-b81f-8df55feb3b48\", seller_id_extractor(value), value, \"field:sku_id\", \"field:product_id\") AS cls_id FROM staging_pre_saal where key != 'LSTSRVFEGPRGMTZFQJ60LY8SR' and key != 'LSTSRVFJAS9GFWE5RSVLSDE6X';",
+    "dontautoexpand" : true,
+    "uid" : "75751DE9-927A-405E-9B1C-FCB8006FFA18",
+    "name" : "> hive SELECT SQL persistence SAAL",
+    "keyword" : "> hive SELECT SQL persistence SAAL "
+  }
+}

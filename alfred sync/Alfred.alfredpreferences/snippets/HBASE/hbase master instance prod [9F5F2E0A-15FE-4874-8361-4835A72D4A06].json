@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/capacityplanner.fkinternal.com\/apps\/fk-sp-slm-hbase\/instances",
+    "dontautoexpand" : true,
+    "uid" : "9F5F2E0A-15FE-4874-8361-4835A72D4A06",
+    "name" : "hbase master instance prod",
+    "keyword" : "hbase master instance prod"
+  }
+}

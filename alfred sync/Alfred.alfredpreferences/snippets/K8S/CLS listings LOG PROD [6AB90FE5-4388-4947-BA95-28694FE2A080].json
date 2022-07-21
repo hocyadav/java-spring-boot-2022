@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#-c listings-modulith & cfgsvc-dns-proxy\nkubectl logs -f {clipboard} -c listings-modulith --context tls-prod --tail=50 --namespace fk-sp-slm-listings\n",
+    "dontautoexpand" : true,
+    "uid" : "6AB90FE5-4388-4947-BA95-28694FE2A080",
+    "name" : "> CLS listings LOG PROD",
+    "keyword" : "> CLS listings LOG PROD"
+  }
+}

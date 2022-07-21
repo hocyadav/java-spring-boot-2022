@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#docker push 10.24.6.41:80\/mp\/the-listing-service\/gor-unprivileged-middleware:1.0.0.spcms.v3",
+    "dontautoexpand" : true,
+    "uid" : "2BDFD8F2-2980-4B40-8999-D1E5016CCE74",
+    "name" : "docker push INFO",
+    "keyword" : "docker push INFO"
+  }
+}

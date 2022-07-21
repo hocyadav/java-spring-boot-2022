@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "scan 'RRA5Ez:listings'",
+    "dontautoexpand" : true,
+    "uid" : "37195F24-84CC-4E83-9381-7B5C9530FE5F",
+    "name" : "> hbase - all reverse listing",
+    "keyword" : "> hbase - all reverse listing "
+  }
+}

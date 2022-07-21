@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "figlet -f \/Users\/yadav.hariom\/figlet-fonts-master\/3d.flf \"{clipboard}\"",
+    "dontautoexpand" : true,
+    "uid" : "ABE73062-EE07-4B40-8764-BD9B44734C75",
+    "name" : "title expand",
+    "keyword" : "tl title expand"
+  }
+}

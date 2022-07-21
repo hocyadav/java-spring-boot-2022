@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : ".\/src\/redis-server",
+    "dontautoexpand" : true,
+    "uid" : "81778528-C008-4443-8EBC-1AF3FFCAEABB",
+    "name" : "start redis 2",
+    "keyword" : "start redis 2"
+  }
+}

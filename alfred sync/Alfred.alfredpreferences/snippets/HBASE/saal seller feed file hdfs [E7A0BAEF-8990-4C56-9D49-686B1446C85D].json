@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.3.78\/sp-file-storage\/spslm\/spslm_seller_uploaded_feeds\/findFiles?query={%22sellerId%22:%2247226367e6044f6e%22}",
+    "dontautoexpand" : true,
+    "uid" : "E7A0BAEF-8990-4C56-9D49-686B1446C85D",
+    "name" : "saal seller feed file hdfs",
+    "keyword" : "saal seller feed file hdfs"
+  }
+}

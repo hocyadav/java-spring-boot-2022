@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh 10.53.162.72",
+    "dontautoexpand" : true,
+    "uid" : "3EBA0A52-1D9B-45C1-9726-722EACC40D0A",
+    "name" : "stage peering proxy",
+    "keyword" : "stage peering proxy"
+  }
+}

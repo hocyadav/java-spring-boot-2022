@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "scan '3EmRxA:listing_states'",
+    "dontautoexpand" : true,
+    "uid" : "3325B41A-6EDB-45A2-BE07-99E9CEBA15DF",
+    "name" : "> hbase - all saal \"listing_states\"",
+    "keyword" : "> hbase - all saal \"listing_states\" "
+  }
+}
