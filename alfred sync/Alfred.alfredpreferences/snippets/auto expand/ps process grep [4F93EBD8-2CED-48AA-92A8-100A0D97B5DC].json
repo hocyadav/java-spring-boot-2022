@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ps aux | grep ",
+    "uid" : "4F93EBD8-2CED-48AA-92A8-100A0D97B5DC",
+    "name" : "ps process grep",
+    "keyword" : "psg"
+  }
+}

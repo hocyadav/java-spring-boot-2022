@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# CLS martz\ncurl http:\/\/10.24.12.70\/v1\/materialized\/LSTRMOF8KGDMVNCHESNAFI8PN",
+    "dontautoexpand" : true,
+    "uid" : "97305F02-7A34-40D8-B52B-108E376BD134",
+    "name" : "> curl GET call from CLI - materialized martz",
+    "keyword" : "> curl GET call from CLI - materialized martz"
+  }
+}

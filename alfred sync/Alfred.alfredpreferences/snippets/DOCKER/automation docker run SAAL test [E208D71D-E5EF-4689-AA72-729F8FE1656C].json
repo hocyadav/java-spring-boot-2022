@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "docker run -it --env TEST=\"-i SAAL-1953\" -v ~\/git_code\/sp-automation\/:\/opt\/robotframework\/tests -v ~\/Desktop\/Docker_Report\/SD:\/opt\/robotframework\/reports gradle:6.1-jdk8",
+    "dontautoexpand" : true,
+    "uid" : "E208D71D-E5EF-4689-AA72-729F8FE1656C",
+    "name" : "> automation docker run SAAL test",
+    "keyword" : "> automation docker run SAAL test"
+  }
+}

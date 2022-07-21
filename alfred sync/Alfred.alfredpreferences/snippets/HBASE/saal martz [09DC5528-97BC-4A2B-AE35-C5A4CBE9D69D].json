@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# take reverse LST value 3EmRxA:lst_rev_index \n# get '3EmRxA:matzr_listings', 'RQ8YL0KJ2FEGFHCHZNFVRSTSL'\nget '3EmRxA:matzr_listings', '{clipboard}'",
+    "dontautoexpand" : true,
+    "uid" : "09DC5528-97BC-4A2B-AE35-C5A4CBE9D69D",
+    "name" : "> saal martz",
+    "keyword" : "> saal martz"
+  }
+}

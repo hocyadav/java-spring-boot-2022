@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.7.132\/fk_sp_cms_listing_data_namespace\/fk_sp_cms_listing_data_namespace\/_search?q=vertical:services%20AND%20product_id:SRVEA7H2YNFZNHZB%20AND%20internal_state:INACTIVE",
+    "dontautoexpand" : true,
+    "uid" : "F64E5272-66E3-4A7C-817C-16F060C71831",
+    "name" : "es multi search prod",
+    "keyword" : "es multi search prod"
+  }
+}

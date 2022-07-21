@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl logs -f -lapp.kubernetes.io\/name=listings-modulith -c listings-modulith --namespace=fk-sp-slm-listings --context listings-prod --max-log-requests 35  | grep \"added reverse\"",
+    "dontautoexpand" : true,
+    "uid" : "48E4671E-F4BB-4740-8D41-1A7D849EECE0",
+    "name" : "k8s prod grep cls new listing",
+    "keyword" : "k8s prod grep cls new listing "
+  }
+}

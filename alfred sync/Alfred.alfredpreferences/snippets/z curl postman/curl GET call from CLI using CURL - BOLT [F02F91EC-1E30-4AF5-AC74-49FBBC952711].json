@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# cd \/data\/1\/DIFFER\n# BOLT stage call\ncurl http:\/\/10.24.3.86:9000\/entity\/listing?ids=LSTRMOF8KGDMVNCHESNAFI8PN",
+    "dontautoexpand" : true,
+    "uid" : "F02F91EC-1E30-4AF5-AC74-49FBBC952711",
+    "name" : "> curl GET call from CLI using CURL - BOLT",
+    "keyword" : "> curl GET call from CLI using CURL - BOLT"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "DELETE \/vehicles",
+    "dontautoexpand" : true,
+    "uid" : "84D65974-57AD-4292-92FB-72474D66883B",
+    "name" : "~ kibana - delete index",
+    "keyword" : "~ kibana delete index"
+  }
+}

@@ -1,11 +1,13 @@
-package io.hari.zerooneentity.entity;
+package io.hari.zerooneentity.entity.attribute_converter;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.hari.zerooneentity.entity.attribute.ContestQues;
 import lombok.SneakyThrows;
 
 import javax.persistence.AttributeConverter;
+import javax.persistence.Converter;
 
+@Converter(autoApply = true)
 public class ContestQuesAttributeConverter implements AttributeConverter<ContestQues, String> {
     @SneakyThrows
     @Override

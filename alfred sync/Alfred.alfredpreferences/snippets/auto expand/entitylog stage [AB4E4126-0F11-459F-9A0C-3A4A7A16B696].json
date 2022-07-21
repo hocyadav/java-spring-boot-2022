@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# cd \/etc\/apt\/sources.list.d\/\nssh 10.53.162.72",
+    "dontautoexpand" : true,
+    "uid" : "AB4E4126-0F11-459F-9A0C-3A4A7A16B696",
+    "name" : "entitylog stage",
+    "keyword" : "entitylog stage"
+  }
+}

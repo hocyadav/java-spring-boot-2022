@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl --location --request GET 'http:\/\/10.24.12.70\/v1\/materialized\/{clipboard}' \\\n--header 'Content-Type: application\/json' \\\n--header 'x-seller-id: 19e4d415fc1f40da' \\\n--header 'x-root-context: 0cccd8f1-8423-5854-b81f-8df55feb3b48' \\\n--header 'x-flipkart-client: sp.slm' \\\n--header 'x-priority: P5' | _json",
+    "dontautoexpand" : true,
+    "uid" : "DA7A4DCB-5C45-4670-97FA-DBFFFB23603D",
+    "name" : "GET - cls stage martz legacy lid",
+    "keyword" : "GET - cls stage martz legacy lid"
+  }
+}

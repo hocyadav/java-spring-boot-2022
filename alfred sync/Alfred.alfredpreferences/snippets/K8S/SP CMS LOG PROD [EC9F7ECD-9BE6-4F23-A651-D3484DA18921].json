@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl logs -f {clipboard} -c sp-cms --context spcms-prod --tail=50 --namespace fk-sp-slm-service",
+    "dontautoexpand" : true,
+    "uid" : "EC9F7ECD-9BE6-4F23-A651-D3484DA18921",
+    "name" : "SP CMS LOG PROD",
+    "keyword" : "> l SP CMS LOG PROD"
+  }
+}

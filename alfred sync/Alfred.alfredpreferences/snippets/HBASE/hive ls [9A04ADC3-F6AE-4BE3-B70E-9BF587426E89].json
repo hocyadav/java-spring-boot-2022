@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "hadoop fs -ls \/user\/",
+    "dontautoexpand" : true,
+    "uid" : "9A04ADC3-F6AE-4BE3-B70E-9BF587426E89",
+    "name" : "> hive ls",
+    "keyword" : "> hive ls"
+  }
+}

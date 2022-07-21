@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# 1st get app id from capacity planner\nhttps:\/\/bastion.fkinternal.com\/",
+    "dontautoexpand" : true,
+    "uid" : "B342A61B-951C-464E-B94A-6460A2FE885E",
+    "name" : "bastion sudo request",
+    "keyword" : "bastion sudo request"
+  }
+}

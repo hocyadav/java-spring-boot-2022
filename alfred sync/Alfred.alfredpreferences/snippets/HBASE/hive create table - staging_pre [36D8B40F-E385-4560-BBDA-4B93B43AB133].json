@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "create table staging_pre_saal\n(\n    key   string,\n    value map<string,string>\n) STORED AS ORC;",
+    "dontautoexpand" : true,
+    "uid" : "36D8B40F-E385-4560-BBDA-4B93B43AB133",
+    "name" : "> hive create table - staging_pre <>",
+    "keyword" : "> hive create table - staging_pre <>"
+  }
+}

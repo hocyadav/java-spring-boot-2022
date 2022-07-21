@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.7.93\/clusters\/Production\/consumers\/spotlight-listings\/topic\/listings\/type\/KF",
+    "dontautoexpand" : true,
+    "uid" : "515AB367-CDBF-4E2C-897F-4C4035F9F9D2",
+    "name" : "kibana topic prod",
+    "keyword" : "kibana topic prod"
+  }
+}

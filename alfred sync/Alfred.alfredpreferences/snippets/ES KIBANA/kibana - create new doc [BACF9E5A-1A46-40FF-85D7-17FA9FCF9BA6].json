@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "POST \/vehicles\/<type>\n{\n  \"color\": \"red\"\n}",
+    "dontautoexpand" : true,
+    "uid" : "BACF9E5A-1A46-40FF-85D7-17FA9FCF9BA6",
+    "name" : "~ kibana - create new doc",
+    "keyword" : "~ kibana - create new doc"
+  }
+}

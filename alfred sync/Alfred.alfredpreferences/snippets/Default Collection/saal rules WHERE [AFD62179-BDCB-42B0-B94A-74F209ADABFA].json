@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "rule_group_id = '9f874a1a-b408-3cc6-b15b-22fb3784e49d' or rule_group_id = '940eb9ee-305e-3021-b84a-691fdd890ad0' or rule_group_id = '83eb9817-ee91-3e50-9243-799e6caf45eb' or rule_group_id = '745fa037-94df-3d14-aea9-f8db14368fbd'",
+    "dontautoexpand" : true,
+    "uid" : "AFD62179-BDCB-42B0-B94A-74F209ADABFA",
+    "name" : "saal rules WHERE",
+    "keyword" : "saal rules WHERE"
+  }
+}

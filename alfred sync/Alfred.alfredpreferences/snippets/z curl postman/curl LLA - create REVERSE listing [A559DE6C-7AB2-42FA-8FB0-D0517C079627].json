@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl --location --request POST 'http:\/\/10.24.3.245\/retail\/reverse\/listings\/v1\/' \\\n--header 'cache-control: no-cache' \\\n--header 'content-type: application\/json' \\\n--header 'fk-seller-id: c82e1fb314f34969' \\\n--header 'postman-token: 61cca1a0-b96e-c0f8-efb0-39e96acc9251' \\\n--header 'X-Trace-Id: 21342112' \\\n--data-raw '{\n    \"llaviacurlreverselisting{random:1..1000}\": {\n        \"product_id\": \"RVMFJ5EWRDVGXUN3\",\n        \"listing_status\": \"ACTIVE\",\n        \"price\": {\n            \"buying_price\": 2000,\n            \"currency\": \"INR\"\n        },\n        \"tax\": {\n            \"hsn\": \"85094090\"\n        },\n        \"marketplace\": {\n            \"domain\": \"FLIPKART\",\n            \"context\": \"FLIPKART\"\n        },\n        \"buyable_criteria\": {\n            \"grade\": \"B\",\n            \"origin\": \"EXCHANGE\",\n            \"tenure\": null\n        },\n        \"order_policy\": {\n            \"independent_sellable\": false\n        }\n    }\n}' | _json{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "A559DE6C-7AB2-42FA-8FB0-D0517C079627",
+    "name" : "> curl LLA - create REVERSE listing",
+    "keyword" : "> curl LLA - create REVERSE listing"
+  }
+}

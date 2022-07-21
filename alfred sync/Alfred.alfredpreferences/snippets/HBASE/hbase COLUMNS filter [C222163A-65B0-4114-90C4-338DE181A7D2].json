@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "get 'fk_sp_cms_listing_data_namespace', 'LSTSRVDVYJ4YAQCKUCEVVAMMN', {COLUMNS => ['d:listing_status']}",
+    "dontautoexpand" : true,
+    "uid" : "C222163A-65B0-4114-90C4-338DE181A7D2",
+    "name" : "hbase COLUMNS filter",
+    "keyword" : "hbase COLUMNS filter"
+  }
+}

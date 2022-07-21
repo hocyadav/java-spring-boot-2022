@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : ".\/cls_bolt_differ --bolt-uri \"http:\/\/10.24.3.86:9000\/entity\/listing?ids=\" --materializer-uri \"http:\/\/10.24.12.70\/v1\/materialized\/\" --config saal-config.toml --listing-id LSTSRVFEGP56B8CTPYMHPZOFO --json",
+    "dontautoexpand" : true,
+    "uid" : "1217B3A8-55E4-4F0B-9CAB-3F79485D4D08",
+    "name" : "> curl bolt differ SAAL listing",
+    "keyword" : "> curl bolt differ SAAL listing"
+  }
+}

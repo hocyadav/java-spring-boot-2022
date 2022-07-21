@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "alias ll=\"ls -lash\"\n#  \n# 1 login hbase\/hive VM\n# ssh 10.53.66.159\n#\n# 2 start hbase console\n# sudoo\n# \/opt\/hbase\/bin\/hbase shell\n#\n# 2 start hive console (copy UDF first)\n# sudo  HADOOP_HOME=\/opt\/hadoop\/ -Dmapreduce.job.user.classpath.first=true \/opt\/hive\/bin\/hive -hiveconf hive.root.logger=DEBUG,console\n#\nscp file1.txt yadav.hariom@10.53.66.159:\/home\/yadav.hariom{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "6201DAD3-1E8C-403D-A1FA-5DD821965307",
+    "name" : "> scp hbase hive stage UDF",
+    "keyword" : "> scp hbase hive stage UDF"
+  }
+}

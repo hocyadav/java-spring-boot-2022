@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.7.152\/el-fk_sp_cms_listing_data_namespace-2022.03.02\/_search",
+    "dontautoexpand" : true,
+    "uid" : "06FA8A50-6FBF-4281-9718-F62D4C45FF81",
+    "name" : "ES - CDC api call monitor",
+    "keyword" : "cdc api call monitor"
+  }
+}

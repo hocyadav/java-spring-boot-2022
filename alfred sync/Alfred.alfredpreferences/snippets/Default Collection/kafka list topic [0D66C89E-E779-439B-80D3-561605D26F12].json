@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "cdk\n.\/bin\/kafka-topics.sh --bootstrap-server localhost:9092 --list",
+    "dontautoexpand" : true,
+    "uid" : "0D66C89E-E779-439B-80D3-561605D26F12",
+    "name" : "kafka list topic",
+    "keyword" : "kafka list topic"
+  }
+}

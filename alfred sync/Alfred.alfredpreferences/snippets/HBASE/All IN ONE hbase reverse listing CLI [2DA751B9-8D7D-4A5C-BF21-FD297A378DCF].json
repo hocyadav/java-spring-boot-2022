@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# 1 gateway request : gateway req uuid id\n#get 'RRA5Ez:gateway_requests', '030883c9-87da-5b99-f796-3134e3e91fb9'\n\n# 2 orch request : orch req uuid id\n#get 'RRA5Ez:orch_requests', '030817cf-cdc2-5569-e965-91fd04a6a817'\n\n# 3 listings persistence : listing entity uuid\nget 'RRA5Ez:listings', '{clipboard}'\n\n# 4 state signal : listing entity uuid\nget 'RRA5Ez:listing_states', '0cccd8f1-8423-5854-b81f-8df55feb3b48:{clipboard}'\n\n# 5 mtrz listing : listing entity uuid id\nget 'RRA5Ez:lst_rev_index', '{clipboard}'\n",
+    "dontautoexpand" : true,
+    "uid" : "2DA751B9-8D7D-4A5C-BF21-FD297A378DCF",
+    "name" : "> All IN ONE hbase reverse listing CLI",
+    "keyword" : "> All IN one hbase reverse listing CLI"
+  }
+}

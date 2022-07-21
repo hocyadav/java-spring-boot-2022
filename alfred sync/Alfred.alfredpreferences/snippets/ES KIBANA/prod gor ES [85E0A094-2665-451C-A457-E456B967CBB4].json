@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.7.152\/gor-2022-01-*\/_search?q=replay_headers:*d26c44f7*%20AND%20request_url:*update*",
+    "dontautoexpand" : true,
+    "uid" : "85E0A094-2665-451C-A457-E456B967CBB4",
+    "name" : "prod gor ES",
+    "keyword" : "prod gor ES"
+  }
+}

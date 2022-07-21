@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "GET _search\n{\n  \"query\": {\n    \"match_all\": {}\n  }\n}\n\nPUT gor\n\nGET _cat\/indices\n\nGET sample_03\/_search\n\nGET _cat\/nodes\n\nPUT \/vehicles\n\n# create new entry every time (POST is also use for update single field)\nPOST \/vehicles\/car\n{\n  \"color\": \"red\"\n}\n\n# update old data : single value , but it will update whole doc, its immutable, so simple we are reindexing\nPUT \/vehicles\/car\/12\n{\n  \"color\": \"green\",\n  \"number\":12344\n}\n\n#update single field\n# approach : 1st fetch old data, add new value to old , then update whole doc by calling PUT internally,\nPOST \/vehicles\/car\/12\/_update\n{\n  \"doc\" :{\n    \"color\": \"white\"\n  }\n}\n\n# get all\nGET \/vehicles\/_search\n\n#match_all query\nGET \/vehicles\/_search\n{\n  \"query\": {\n    \"match_all\": {}\n  }\n}\n\n#term query\nGET \/vehicles\/_search\n{\n  \"query\": {\n    \"term\": {\n      \"color\": \"green\"\n    }\n  }\n}\n#same as above one, this is auto generated \nGET \/vehicles\/_search\n{\n  \"query\": {\n    \"term\": {\n      \"color\": {\n        \"value\": \"green\"\n      }\n    }\n  }\n}\n\n\n\n#get one data, 123 is type\nGET \/vehicles\/car\/12hyQn4BtVK8TnyX_MhM\n#single doc present or not: o\/p 200 - OK\nHEAD \/vehicles\/car\/12hyQn4BtVK8TnyX_MhM\n\n#get only entity json\nGET \/vehicles\/car\/12hyQn4BtVK8TnyX_MhM\/_source\n\nDELETE \/vehicles\n\n\n\n\n\n\n",
+    "dontautoexpand" : true,
+    "uid" : "B7681D96-F63A-4B76-8BF6-06DD4003FC70",
+    "name" : "~ kibana - all notes",
+    "keyword" : "~ kibana - all notes"
+  }
+}

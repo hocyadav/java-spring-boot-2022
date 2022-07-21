@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "    \/**\n     * <pre>\n     * {@code\n     * Set<String> s;\n     * System.out.println(s);\n     * final String requestId = UUID.randomUUID().toString();\n     * final UpsertFeedRequest upsertFeedRequest = createUpsertFeedRequest(upsertFeedContext);\n     * }\n     * <\/pre>\n     *\/",
+    "dontautoexpand" : true,
+    "uid" : "E067668B-5286-4CBF-BEFE-6457C18CECD6",
+    "name" : "comment code java",
+    "keyword" : "comment code java"
+  }
+}

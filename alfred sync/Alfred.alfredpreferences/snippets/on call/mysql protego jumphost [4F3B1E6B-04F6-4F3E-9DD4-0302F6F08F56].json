@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh -N -L localhost:4306:10.52.178.218:3306 10.53.50.92",
+    "dontautoexpand" : true,
+    "uid" : "4F3B1E6B-04F6-4F3E-9DD4-0302F6F08F56",
+    "name" : "mysql protego jumphost",
+    "keyword" : "mysql protego jumphost"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl --location --request GET 'http:\/\/10.24.3.86:9000\/entity\/listing?ids={clipboard}' | _json &&\n\ncurl --location --request GET 'http:\/\/10.24.3.86:9000\/entity\/listing\/version\/{clipboard}' | _json &&\n\ncurl --location --request GET 'http:\/\/10.24.8.36\/fk_slm_seller_listing_view\/_search?q=lid:{clipboard}' | _json\n",
+    "dontautoexpand" : true,
+    "uid" : "13D47288-2BC9-47F3-9CF4-54989A7D265F",
+    "name" : "saal LST 2- bolt, version, libertalia",
+    "keyword" : "saal LST 2- bolt, version, libertalia"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo bash -c \"echo '10.47.0.167 authn.ch.flipkart.com' >> \/etc\/hosts\"",
+    "dontautoexpand" : true,
+    "uid" : "C705BEAD-92BC-4DF2-9F40-70387B3D4594",
+    "name" : "bash add line to next line",
+    "keyword" : "bash add line to next line"
+  }
+}

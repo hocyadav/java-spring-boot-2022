@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "hadoop fs -ls \/user\/hariom\/lib{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "2002EC39-78AC-4202-B686-F580B1B83A36",
+    "name" : "> hadoop ls \/user\/hariom",
+    "keyword" : "> hadoop ls \/user\/hariom"
+  }
+}

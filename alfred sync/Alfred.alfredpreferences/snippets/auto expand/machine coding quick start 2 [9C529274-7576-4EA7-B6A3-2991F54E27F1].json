@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "https:\/\/start.spring.io\/#!type=gradle-project&language=java&platformVersion=2.7.0&packaging=jar&jvmVersion=11&groupId=io.hari&artifactId=demo&name=demo&description=Demo%20project%20-%20Hariom%20Yadav&packageName=io.hari.demo&dependencies=lombok,data-jpa,web,validation,h2,data-rest",
+    "dontautoexpand" : true,
+    "uid" : "9C529274-7576-4EA7-B6A3-2991F54E27F1",
+    "name" : "machine coding quick start 2",
+    "keyword" : "machine coding quick start 2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get pod --context tls-preprod --namespace fk-sp-slm-the-listing-service",
+    "uid" : "00161BFF-54E0-4839-931C-5D55AFB34862",
+    "name" : "> TLS POD",
+    "keyword" : "tlsp"
+  }
+}

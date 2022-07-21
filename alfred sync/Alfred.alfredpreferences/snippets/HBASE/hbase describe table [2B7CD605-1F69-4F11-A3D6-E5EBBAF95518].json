@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "describe 'staging'",
+    "dontautoexpand" : true,
+    "uid" : "2B7CD605-1F69-4F11-A3D6-E5EBBAF95518",
+    "name" : "> hbase describe table",
+    "keyword" : "> hbase describe table"
+  }
+}

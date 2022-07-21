@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#-c [nginx-sidecar fk-sp-slm-the-listing-service gor-sidecar-container]\nkubectl logs -f  {clipboard}  -c gor-sidecar-container --context tls-preprod --tail=50 --namespace fk-sp-slm-the-listing-service",
+    "uid" : "EC237EAC-9B63-42AC-92E3-C9C8B46D192D",
+    "name" : "> TLS gor LOG",
+    "keyword" : "gtlsl"
+  }
+}

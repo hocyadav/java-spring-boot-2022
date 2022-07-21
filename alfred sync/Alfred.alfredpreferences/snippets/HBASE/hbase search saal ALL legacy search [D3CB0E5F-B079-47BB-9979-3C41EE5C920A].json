@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "scan '3EmRxA:listings', {LIMIT => 10, FILTER => \"ValueFilter( =, 'regexstring:{clipboard}')\"}\nscan '3EmRxA:gateway_requests', {LIMIT => 10, FILTER => \"ValueFilter( =, 'regexstring:{clipboard}')\"}\nscan '3EmRxA:listing_states', {LIMIT => 10, FILTER => \"ValueFilter( =, 'regexstring:{clipboard}')\"}\nscan '3EmRxA:lst_rev_index', {LIMIT => 10, FILTER => \"ValueFilter( =, 'regexstring:{clipboard}')\"}\nscan '3EmRxA:matzr_listings', {LIMIT => 10, FILTER => \"ValueFilter( =, 'regexstring:{clipboard}')\"}\nscan '3EmRxA:orch_requests', {LIMIT => 10, FILTER => \"ValueFilter( =, 'regexstring:{clipboard}')\"}\n",
+    "dontautoexpand" : true,
+    "uid" : "D3CB0E5F-B079-47BB-9979-3C41EE5C920A",
+    "name" : "hbase search saal ALL legacy search",
+    "keyword" : "hbase search saal ALL legacy search"
+  }
+}

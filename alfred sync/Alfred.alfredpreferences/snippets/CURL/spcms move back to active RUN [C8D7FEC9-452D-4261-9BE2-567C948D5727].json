@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "get 'fk_sp_cms_listing_data_namespace', '{clipboard}'\n\nput 'fk_sp_cms_listing_data_namespace', '{clipboard}', 'd:listing_status', '[{\"value\":\"ACTIVE\"}]'\n\nput 'fk_sp_cms_listing_data_namespace', '{clipboard}', 'd:internal_state', '[{\"value\":\"ACTIVE\"}]'\n\nget 'fk_sp_cms_listing_data_namespace', '{clipboard}'\n",
+    "dontautoexpand" : true,
+    "uid" : "C8D7FEC9-452D-4261-9BE2-567C948D5727",
+    "name" : "spcms move back to active RUN",
+    "keyword" : "spcms move back to active RUN"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl -XPUT -H \"Content-Type: application\/json\" http:\/\/localhost:9200\/_cluster\/settings -d '{ \"transient\": { \"cluster.routing.allocation.disk.threshold_enabled\": false } }'\ncurl -XPUT -H \"Content-Type: application\/json\" http:\/\/localhost:9200\/_all\/_settings -d '{\"index.blocks.read_only_allow_delete\": null}'",
+    "dontautoexpand" : true,
+    "uid" : "1D74179C-6B4E-4865-A35F-A1A18D309DD6",
+    "name" : "es kibana too many request",
+    "keyword" : "es kibana too many request"
+  }
+}

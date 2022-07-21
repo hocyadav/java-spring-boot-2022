@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "tail -5 file1",
+    "dontautoexpand" : true,
+    "uid" : "F6480D3A-8D3F-47E2-B57F-A85B324D33D7",
+    "name" : "~ check few log lines",
+    "keyword" : "~ check few log lines"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl describe pod fk-sp-slm-the-listing-service-stage-deployment-8555f557c8-577x8 --context tls-preprod --namespace fk-sp-slm-the-listing-service | grep IP",
+    "dontautoexpand" : true,
+    "uid" : "772BEF0A-B390-4377-9C69-E3E868305348",
+    "name" : "> TLS ELS ip from k8s",
+    "keyword" : "> TLS ELS ip from k8s"
+  }
+}

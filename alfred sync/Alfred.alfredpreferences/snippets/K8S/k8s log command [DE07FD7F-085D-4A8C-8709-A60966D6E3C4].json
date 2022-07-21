@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "https:\/\/stackoverflow.com\/questions\/51835066\/tailing-few-lines-from-huge-logs-of-kubectl-logs-f",
+    "dontautoexpand" : true,
+    "uid" : "DE07FD7F-085D-4A8C-8709-A60966D6E3C4",
+    "name" : "k8s log command",
+    "keyword" : "k8s log command"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# https:\/\/github.com\/GoogleContainerTools\/container-diff\ncontainer-diff diff jfrog.fkinternal.com\/sp-slm\/gor:flow-e491457795b9e14870c1d123e0cb639bd275c349-01-Feb-22_18-14-20 10.24.6.41:80\/mp\/the-listing-service\/gor-unprivileged-middleware:1.0.0.v2 --type=file",
+    "dontautoexpand" : true,
+    "uid" : "50508995-1A2F-4742-BA89-0911C1C997CA",
+    "name" : "docker image container difference",
+    "keyword" : "docker image container difference "
+  }
+}

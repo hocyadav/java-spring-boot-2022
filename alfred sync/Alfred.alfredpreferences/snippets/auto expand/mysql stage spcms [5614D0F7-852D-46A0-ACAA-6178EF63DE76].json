@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh -N -L 3308:10.52.178.218:3306 10.53.66.159\nuser\/pass : spcms-bk-rw \/ dhhA7IBZWX",
+    "dontautoexpand" : true,
+    "uid" : "5614D0F7-852D-46A0-ACAA-6178EF63DE76",
+    "name" : "mysql stage spcms",
+    "keyword" : "mysql stage spcms"
+  }
+}

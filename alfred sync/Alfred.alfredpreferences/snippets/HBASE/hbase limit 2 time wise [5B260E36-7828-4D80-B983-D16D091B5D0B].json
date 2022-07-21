@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "scan '3EmRxA:gateway_requests', { 'LIMIT' => 2, TIMERANGE => [{clipboard}, 9958067568909] }\nscan '3EmRxA:orch_requests', { 'LIMIT' => 2, TIMERANGE => [{clipboard}, 9958067568909] } \nscan '3EmRxA:listings', { 'LIMIT' => 2, TIMERANGE => [{clipboard}, 9958067568909] }\n",
+    "dontautoexpand" : true,
+    "uid" : "5B260E36-7828-4D80-B983-D16D091B5D0B",
+    "name" : "hbase limit 2 time wise",
+    "keyword" : "hbase limit 2 time wise"
+  }
+}

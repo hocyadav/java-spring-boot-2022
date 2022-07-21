@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "\n#FEED-SAAL (LLA -> CLS) | POST {lla}\/feeds\/upsert\/v1\/\n#SAAL-SKU (LLA -> CLS) | POST {lla}\/sp-cms-backend\/rest\/skus\/listings\/bulk\n#CLS-LEGACY-SAAL === FEED-SAAL + SAAL-SKU === MPAUT-9541\n\n#docker run -it --env TEST=\"-i  CLS-LEGACY-SAAL\" -v ~\/git_code\/sp-automation\/:\/opt\/robotframework\/tests -v ~\/Desktop\/Docker_Report\/SD:\/opt\/robotframework\/reports gradle:6.1-jdk8 \n",
+    "dontautoexpand" : true,
+    "uid" : "361326E4-EEC8-473E-AD07-A7B097CBBCE9",
+    "name" : "saal automation",
+    "keyword" : "saal automation"
+  }
+}

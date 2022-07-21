@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "put 'fk_sp_cms_listing_data_namespace', 'LSTSRVDVYJ4YAQCKUCEVVAMMN', 'd:internal_state', '[{\"value\":\"ACTIVE\"}]'",
+    "dontautoexpand" : true,
+    "uid" : "2F73BA5D-A835-46C5-9773-64C9E1A67AF4",
+    "name" : "hbase update column ARCHIVED to ACTIVE",
+    "keyword" : "hbase update column  ARCHIVED to ACTIVE"
+  }
+}

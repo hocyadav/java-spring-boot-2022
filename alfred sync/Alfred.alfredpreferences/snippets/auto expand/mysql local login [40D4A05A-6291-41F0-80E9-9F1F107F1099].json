@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "mysql -u root -p",
+    "dontautoexpand" : true,
+    "uid" : "40D4A05A-6291-41F0-80E9-9F1F107F1099",
+    "name" : "mysql local login",
+    "keyword" : "mysql local login"
+  }
+}

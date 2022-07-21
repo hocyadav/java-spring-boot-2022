@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : " tree -I 'data-model|app|business-logic'",
+    "dontautoexpand" : true,
+    "uid" : "8E193615-0243-47DF-85C7-09105D70330D",
+    "name" : "tree command excluse",
+    "keyword" : "tree command excluse"
+  }
+}

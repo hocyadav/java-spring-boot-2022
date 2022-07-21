@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "-- \n-- https:\/\/stackoverflow.com\/questions\/13178182\/i-have-created-a-table-in-hive-i-would-like-to-know-which-directory-my-table-is\n-- DESCRIBE staging;\n-- DESCRIBE FORMATTED staging;\n-- DESCRIBE FORMATTED my_table PARTITION (my_column='my_value');\n-- \nDESCRIBE FORMATTED {clipboard};{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "65A7D3A4-0CFA-4704-9FBC-2F400DD01899",
+    "name" : "> hive describe table",
+    "keyword" : "> hive describe table"
+  }
+}

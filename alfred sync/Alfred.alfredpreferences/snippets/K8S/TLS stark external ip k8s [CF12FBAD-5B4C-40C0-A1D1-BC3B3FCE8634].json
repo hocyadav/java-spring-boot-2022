@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#kubectl get svc --context tls-preprod -n fk-sp-slm-the-listing-service\nkubectl get svc --context tls-preprod -n fk-sp-slm-the-listing-service | awk '{print $1 \"    \" $4}'",
+    "dontautoexpand" : true,
+    "uid" : "CF12FBAD-5B4C-40C0-A1D1-BC3B3FCE8634",
+    "name" : "> TLS stark external ip k8s",
+    "keyword" : "> TLS stark external ip k8s"
+  }
+}

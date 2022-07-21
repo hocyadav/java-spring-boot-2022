@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/cosmos.fkcloud.in\/d\/000011021\/bolt-dashboard?orgId=1&refresh=1m&from=now-3h&to=now",
+    "dontautoexpand" : true,
+    "uid" : "532A631B-79E8-4079-BA29-CE6F8C4DB12C",
+    "name" : "grafana - prod - bolt",
+    "keyword" : "grafana - prod - bolt"
+  }
+}

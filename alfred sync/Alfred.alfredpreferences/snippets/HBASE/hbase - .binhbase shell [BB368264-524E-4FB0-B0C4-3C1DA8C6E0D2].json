@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "\/Users\/yadav.hariom\/local_tool_setup\/hbase-2.2.3\/bin\/hbase shell{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "BB368264-524E-4FB0-B0C4-3C1DA8C6E0D2",
+    "name" : "> hbase - .\/bin\/hbase shell",
+    "keyword" : "> hbase - .\/bin\/hbase shell"
+  }
+}

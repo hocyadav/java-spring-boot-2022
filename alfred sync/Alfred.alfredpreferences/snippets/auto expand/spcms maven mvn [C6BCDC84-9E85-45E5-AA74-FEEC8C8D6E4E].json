@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#\nexport M2_HOME=\/Users\/yadav.hariom\/local_tool_setup\/sp_cms_local_tool_setup\/apache-maven-3.6.3\n\nexport M2=$M2_HOME\/bin                                                                                                                                                                         \n\nexport PATH=$M2:$PATH\n\nexport JAVA_HOME=$(\/usr\/libexec\/java_home -v 1.8.0_291)\n\njava -version\n\nmvn --version\n\n#mvn --help\n#mvn compile -U\n#mvn clean install -U",
+    "dontautoexpand" : true,
+    "uid" : "C6BCDC84-9E85-45E5-AA74-FEEC8C8D6E4E",
+    "name" : "spcms maven mvn",
+    "keyword" : "spcms maven mvn"
+  }
+}

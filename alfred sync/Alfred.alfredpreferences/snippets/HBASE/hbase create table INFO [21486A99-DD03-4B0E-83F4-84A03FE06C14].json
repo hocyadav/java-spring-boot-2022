@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# create table, cf1, cf2\n# create 'my_table', 'col_family1_familydetails', 'col_family2_accounts'\n# we never specify data type for data inside col family : store all in binary format (string, list, image , somg, video)\n# everything is case sensitivity \n# create 'My_table', 'col_family1_familydetails', 'col_family2_accounts'\n# --- delete process ---\n# disable 'My_table'\n# drop 'yourTableName'\n# create 'yourTableName', 'f1', 'f2', 'f3'",
+    "dontautoexpand" : true,
+    "uid" : "21486A99-DD03-4B0E-83F4-84A03FE06C14",
+    "name" : "> hbase create table INFO",
+    "keyword" : "> hbase create table INFO"
+  }
+}

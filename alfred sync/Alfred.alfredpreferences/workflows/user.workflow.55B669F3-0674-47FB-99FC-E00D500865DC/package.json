@@ -1,0 +1,118 @@
+{
+  "_from": "alfred-evernote-workflow",
+  "_id": "alfred-evernote-workflow@0.9.7",
+  "_inBundle": false,
+  "_integrity": "sha512-yVMCjh9OCyoc+4YspFxS0bAmsoLxLrmEuVEKa9Jv4TMK57XFxRI1/zQgrHm8YtkWpvmxrPR/u66KokWdJoPuQw==",
+  "_location": "/alfred-evernote-workflow",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "alfred-evernote-workflow",
+    "name": "alfred-evernote-workflow",
+    "escapedName": "alfred-evernote-workflow",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/alfred-evernote-workflow/-/alfred-evernote-workflow-0.9.7.tgz",
+  "_shasum": "d2d3bf6892befbdb46e4568f80cd21ea9a4a79ab",
+  "_spec": "alfred-evernote-workflow",
+  "_where": "/Users/igyubong",
+  "author": {
+    "name": "jopemachine",
+    "email": "jopemachine@naver.com",
+    "url": "github.com/jopemachine/alfred-evernote-workflow"
+  },
+  "ava": {
+    "files": [
+      "e2e/**/*.test.js",
+      "test/*.test.js"
+    ],
+    "require": [
+      "esm"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/jopemachine/alfred-evernote-workflow/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@jxa/global-type": "^1.3.1",
+    "@jxa/run": "^1.3.2",
+    "alfy": "git+https://github.com/jopemachine/alfy.git",
+    "boxen": "^4.2.0",
+    "clipboardy": "^2.3.0",
+    "create-html-element": "^3.0.0",
+    "dotenv": "^8.2.0",
+    "evernote": "^2.0.5",
+    "is-travis": "^2.0.0",
+    "lodash": "^4.17.15",
+    "os-locale": "^5.0.0",
+    "plist": "^3.0.1"
+  },
+  "deprecated": false,
+  "description": "Evernote workflow for Alfred 4",
+  "devDependencies": {
+    "alfy-test": "git+https://github.com/jopemachine/alfy-test.git",
+    "ava": "^3.12.1",
+    "eslint": "^7.10.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "esm": "^3.2.25",
+    "husky": "^4.3.0",
+    "xo": "^0.17.1"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "info.plist",
+    "*.js",
+    "*.scpt",
+    "*.sh",
+    "icon.png",
+    "imgs/*.png",
+    "icon/*.png",
+    "initialCachingDescription.html",
+    "searchConfig.json",
+    "*.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/jopemachine/alfred-evernote-workflow#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run test",
+      "pre-push": "npm run test"
+    }
+  },
+  "keywords": [
+    "alfred",
+    "alfy",
+    "evernote",
+    "workflow"
+  ],
+  "license": "MIT",
+  "name": "alfred-evernote-workflow",
+  "repository": {
+    "url": "git://github.com/jopemachine/alfred-evernote-workflow.git"
+  },
+  "scripts": {
+    "clearHtmlCache": "node deleteSearchContent.js",
+    "init": "node init.js",
+    "postinstall": "alfy-init && npm run init",
+    "preuninstall": "alfy-cleanup",
+    "run-ens": "npm run run-node --target=./searchNote.js --query='${npm_config_query}'",
+    "run-node": "ESM_OPTIONS='{\"await\":true}' node --require esm \"${npm_config_target}\" \"${npm_config_query}\"",
+    "saveHtmlCache": "osascript saveCache.scpt",
+    "test": "xo && ava --verbose"
+  },
+  "version": "0.9.7"
+}

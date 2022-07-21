@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl describe pod {clipboard} --context tls-preprod --namespace fk-sp-slm-service",
+    "dontautoexpand" : true,
+    "uid" : "D9B5C207-8FA6-49C9-8814-D6B9855407A2",
+    "name" : "> SP CMS describe pod",
+    "keyword" : "> d SP CMS describe pod"
+  }
+}

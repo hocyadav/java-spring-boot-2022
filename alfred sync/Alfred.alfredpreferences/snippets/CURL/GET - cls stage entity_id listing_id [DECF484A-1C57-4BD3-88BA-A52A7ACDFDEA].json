@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl --location --request GET 'http:\/\/10.24.12.70\/v1\/listings\/{clipboard}' \\\n--header 'x-flipkart-client: test' | _json",
+    "dontautoexpand" : true,
+    "uid" : "DECF484A-1C57-4BD3-88BA-A52A7ACDFDEA",
+    "name" : "GET - cls stage entity_id \/ listing_id",
+    "keyword" : "GET - cls stage entity_id \/ listing_id"
+  }
+}

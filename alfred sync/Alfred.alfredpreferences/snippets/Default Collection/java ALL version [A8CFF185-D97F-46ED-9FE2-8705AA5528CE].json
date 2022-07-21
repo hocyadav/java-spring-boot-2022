@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : " \/usr\/libexec\/java_home -V",
+    "dontautoexpand" : true,
+    "uid" : "A8CFF185-D97F-46ED-9FE2-8705AA5528CE",
+    "name" : "> java ALL version",
+    "keyword" : "> java ALL version"
+  }
+}

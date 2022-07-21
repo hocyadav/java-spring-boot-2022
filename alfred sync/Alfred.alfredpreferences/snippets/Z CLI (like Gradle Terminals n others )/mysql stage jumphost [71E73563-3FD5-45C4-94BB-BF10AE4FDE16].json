@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# user\/password : listings\/ LE64qeYyRz\n# host\/port : 127.0.0.1 , 4306\nssh -N -L localhost:4306:10.53.131.164:3306 10.53.50.92\n",
+    "dontautoexpand" : true,
+    "uid" : "71E73563-3FD5-45C4-94BB-BF10AE4FDE16",
+    "name" : "> mysql stage jumphost",
+    "keyword" : "> mysql stage jumphost"
+  }
+}

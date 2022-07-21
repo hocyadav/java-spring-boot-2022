@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get all --context tls-preprod -n fk-sp-slm-the-listing-service",
+    "dontautoexpand" : true,
+    "uid" : "35E6E0F8-0D41-435A-8423-2D93C0477A78",
+    "name" : "> TLS All Objects",
+    "keyword" : "> TLS All Objects"
+  }
+}

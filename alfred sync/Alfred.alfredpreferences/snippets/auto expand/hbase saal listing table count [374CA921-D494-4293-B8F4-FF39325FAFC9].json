@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "count '3EmRxA:gateway_requests'\ncount '3EmRxA:orch_requests'\ncount '3EmRxA:listings'\ncount '3EmRxA:listing_states'\ncount '3EmRxA:matzr_listings'\n",
+    "dontautoexpand" : true,
+    "uid" : "374CA921-D494-4293-B8F4-FF39325FAFC9",
+    "name" : "hbase saal listing table count",
+    "keyword" : "hbase saal listing table count "
+  }
+}

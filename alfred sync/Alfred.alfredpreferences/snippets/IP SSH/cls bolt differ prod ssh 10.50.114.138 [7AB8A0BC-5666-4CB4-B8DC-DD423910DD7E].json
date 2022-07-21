@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh 10.50.114.138{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "7AB8A0BC-5666-4CB4-B8DC-DD423910DD7E",
+    "name" : "> cls bolt differ prod ssh 10.50.114.138",
+    "keyword" : "> cls bolt differ prod ssh 10.50.114.138"
+  }
+}

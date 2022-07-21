@@ -1,5 +1,7 @@
-package io.hari.zerooneentity.entity.bricks.question;
+package io.hari.zerooneentity.entity;
 
+import io.hari.zerooneentity.entity.attribute.QueAnswers;
+import io.hari.zerooneentity.entity.attribute_converter.QueAnswersAttributeConverter;
 import lombok.*;
 
 import javax.persistence.*;

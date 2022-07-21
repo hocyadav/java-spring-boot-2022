@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "docker build . -t  gradle:6.1-jdk8",
+    "dontautoexpand" : true,
+    "uid" : "FB58EC5D-5350-4EC2-B700-299C867D78AB",
+    "name" : "> automation docker build",
+    "keyword" : "> automation docker build"
+  }
+}

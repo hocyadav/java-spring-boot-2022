@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "deleteall '3EmRxA:listings', '03087088-cbce-53d4-f8d0-36e6e9473609', 'd:f#order_policy'",
+    "dontautoexpand" : true,
+    "uid" : "7530E91E-8D3D-4BBF-A2BB-88160D17828D",
+    "name" : "hbase delete one column family from 1 row",
+    "keyword" : "hbase delete one column family from 1 row"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "hadoop fs -ls \/\nhadoop fs -put \/home\/yadav.hariom\/hyudf.jar \/user\/hariom\/lib\/{cursor}",
+    "dontautoexpand" : true,
+    "uid" : "72C94099-69E8-4162-83BD-ED9C88707C3F",
+    "name" : "> hive step 0.4 jar to HDFS",
+    "keyword" : "> hive step 0.4 jar to HDFS"
+  }
+}

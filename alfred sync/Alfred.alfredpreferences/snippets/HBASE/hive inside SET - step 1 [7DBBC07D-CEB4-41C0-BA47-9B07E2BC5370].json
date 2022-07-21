@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "\n# Disable mapreduce speculative execution.\n\nSET mapreduce.map.speculative=false;\nSET mapreduce.reduce.speculative=false;\n\n# This improves the parallelism for smaller datasets\n\nSET hive.merge.mapfiles=true;\nSET hive.merge.mapredfiles=true;\nSET hive.merge.size.per.task=3145728;\nSET hive.merge.smallfiles.avgsize=3145728;\nSET mapred.max.split.size=3145728;{cursor}\n\n",
+    "dontautoexpand" : true,
+    "uid" : "7DBBC07D-CEB4-41C0-BA47-9B07E2BC5370",
+    "name" : "> hive inside SET - step 1",
+    "keyword" : "> hive inside SET - step 1"
+  }
+}

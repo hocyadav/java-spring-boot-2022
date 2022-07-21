@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#<author>_<branch-type>_<branch-name>\n# hy_feat_new_api_impl\n#hy_fix_api_bug",
+    "dontautoexpand" : true,
+    "uid" : "0EC7AC74-2C86-4071-B875-4BF1C447A6E8",
+    "name" : "git branch",
+    "keyword" : "git branch"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#-c listings-enricher & cfgsvc-dns-proxy\nkubectl logs -f {clipboard} -c listings-enricher --context tls-preprod --tail=50 --namespace fk-sp-slm-enricher-backend",
+    "uid" : "3D4BA4D2-AA5E-4DD0-9BA8-082130874C4E",
+    "name" : "> ENRICHER LOG",
+    "keyword" : "enl"
+  }
+}

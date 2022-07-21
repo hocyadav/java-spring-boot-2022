@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/cosmos.fkcloud.in\/dashboard\/script\/elb_backend_new.js?zone=in-hyderabad-1&backend=fk-sp-slm-legacy-adapter___listings-legacy-adapter-prod&stack=v3&orgId=1&refresh=1m&from=now-1h&to=now",
+    "dontautoexpand" : true,
+    "uid" : "58B475F8-B280-46A4-86CB-460658C2BA2F",
+    "name" : "prod flow cls grafana legacy adapter",
+    "keyword" : "prod flow cls grafana legacy adapter "
+  }
+}

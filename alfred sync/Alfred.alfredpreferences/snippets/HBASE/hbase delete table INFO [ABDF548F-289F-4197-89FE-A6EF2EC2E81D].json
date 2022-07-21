@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# step 1. delete table\n#$ disable 'yourTableName'\n#$ describe 'yourTableName'\n#$ drop 'yourTableName'\n\n# step 2. recreate table\n#$ create 'yourTableName', 'f1', 'f2', 'f3'\n",
+    "dontautoexpand" : true,
+    "uid" : "ABDF548F-289F-4197-89FE-A6EF2EC2E81D",
+    "name" : "hbase delete table INFO",
+    "keyword" : "hbase delete table INFO"
+  }
+}

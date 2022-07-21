@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/cosmos.fkcloud.in\/d\/000010348\/tomcat-slm?orgId=1&from=now-1h&to=now&refresh=1m",
+    "dontautoexpand" : true,
+    "uid" : "7CB35F2C-40CE-4C0A-BE9E-27B11D500004",
+    "name" : "grafana - prod - sp-cms tomcat",
+    "keyword" : "grafana - prod - sp-cms tomcat"
+  }
+}

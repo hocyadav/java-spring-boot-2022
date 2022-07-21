@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get pod --context enricher-prod --namespace fk-sp-slm-enricher-backend",
+    "dontautoexpand" : true,
+    "uid" : "30F07E97-6A2B-4238-9120-BF043AE655CE",
+    "name" : "> enricher PROD POD",
+    "keyword" : "> p enricher PROD POD"
+  }
+}

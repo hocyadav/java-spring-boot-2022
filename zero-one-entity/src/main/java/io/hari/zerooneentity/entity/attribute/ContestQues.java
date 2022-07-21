@@ -1,4 +1,4 @@
-package io.hari.zerooneentity.entity;
+package io.hari.zerooneentity.entity.attribute;
 
 import lombok.*;
 

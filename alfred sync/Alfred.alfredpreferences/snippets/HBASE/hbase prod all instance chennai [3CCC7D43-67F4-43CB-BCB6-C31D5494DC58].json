@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.8.54\/instance\/fk-sp-slm-hbase-backup?zone=in-chennai-1",
+    "dontautoexpand" : true,
+    "uid" : "3CCC7D43-67F4-43CB-BCB6-C31D5494DC58",
+    "name" : "hbase prod all instance chennai",
+    "keyword" : "hbase prod all instance chennai"
+  }
+}

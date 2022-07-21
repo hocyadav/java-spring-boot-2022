@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl --location --request POST '10.24.3.222\/listing\/index' \\\n--header 'Content-Type: application\/json' \\\n--header 'scope: LISTING' \\\n--data-raw '{\n    \"lids\": [\n        \"{clipboard}\"\n    ]\n}' | _json",
+    "uid" : "B66AD69B-1FE4-4770-9DC2-F639945B2F9B",
+    "name" : "libertalia sync - spcms move back to active RUN",
+    "keyword" : "lsync"
+  }
+}

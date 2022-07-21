@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "echo \"\\n ========= bolt response ========= \\n\" && curl --location --request GET 'http:\/\/10.24.3.75:9000\/entity\/listing?ids={clipboard}' | _json && echo \"\\n ========= libertalia response ========= \\n\" && curl --location --request GET 'http:\/\/10.24.11.28\/\/fk_sp_cms_listing_data_namespace\/_search\/?q=listing_id:{clipboard}' | _json\n\n# SD active listing     :  listing_status : ACTIVE,     internal_state: ACTIVE\n# SD blocked listing  :  listing_status : INACTIVE, internal_state: INACTIVATED_BY_FLIPKART\n# SD inactive listing  :  listing_status : INACTIVE, internal_state: INACTIVE\n# SD archive listing   :  listing_status : INACTIVE, internal_state: ARCHIVED",
+    "uid" : "95906744-FF70-4C3D-99F3-6D320BB173AD",
+    "name" : "curl libertalia & bolt prod",
+    "keyword" : "libolt"
+  }
+}

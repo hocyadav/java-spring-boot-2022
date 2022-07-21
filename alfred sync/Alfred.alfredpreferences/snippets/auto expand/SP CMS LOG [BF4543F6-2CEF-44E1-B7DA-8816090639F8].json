@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#-c [nginx-sidecar fk-sp-slm-the-listing-service gor-sidecar-container]\nkubectl logs -f {clipboard} -c gor-sidecar-container --context tls-preprod --tail=50 --namespace fk-sp-slm-service",
+    "uid" : "BF4543F6-2CEF-44E1-B7DA-8816090639F8",
+    "name" : "> SP CMS LOG",
+    "keyword" : "gcmsl"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get pod --context legacy-prod --namespace fk-sp-slm-legacy-adapter",
+    "dontautoexpand" : true,
+    "uid" : "A567B511-0231-4AE0-808A-01EFE51203DC",
+    "name" : "LLA POD PROD - legacy adapter",
+    "keyword" : "> p LLA POD PROD - legacy adapter"
+  }
+}

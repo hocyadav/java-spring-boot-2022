@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl describe pods {clipboard} --context mpe-prod --namespace fk-sp-mp-pricing-engine-prod",
+    "uid" : "636ACA37-95BA-4249-ACA3-C18C005669AF",
+    "name" : "mpe describe pods - prod",
+    "keyword" : ":mpd"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# go to branch1 and then merge branch2\n#$git checkout branch2\n#$git merge branch1",
+    "dontautoexpand" : true,
+    "uid" : "C7F1434B-1858-4060-89C0-B6B797517CBD",
+    "name" : "git merge branch 1 to branch 2 INFO",
+    "keyword" : "git merge branch 1 to branch 2 INFO"
+  }
+}

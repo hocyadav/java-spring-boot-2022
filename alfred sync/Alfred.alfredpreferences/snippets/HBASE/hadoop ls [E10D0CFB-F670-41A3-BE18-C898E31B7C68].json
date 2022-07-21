@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "hadoop fs -ls \/",
+    "dontautoexpand" : true,
+    "uid" : "E10D0CFB-F670-41A3-BE18-C898E31B7C68",
+    "name" : "> hadoop ls",
+    "keyword" : "> hadoop ls"
+  }
+}

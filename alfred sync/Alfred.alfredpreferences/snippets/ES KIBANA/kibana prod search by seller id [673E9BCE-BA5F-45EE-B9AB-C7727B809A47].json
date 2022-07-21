@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "GET el*\/_search\n{\n  \"query\": {\n    \"term\": {\n      \"context.SELLER_ID\" : \"47226367e6044f6e\"\n    }\n  }\n}",
+    "dontautoexpand" : true,
+    "uid" : "673E9BCE-BA5F-45EE-B9AB-C7727B809A47",
+    "name" : "~ kibana prod search by seller id",
+    "keyword" : "~ kibana prod search by seller id"
+  }
+}

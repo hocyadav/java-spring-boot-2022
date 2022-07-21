@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/localhost:5601",
+    "dontautoexpand" : true,
+    "uid" : "DA3DA803-E455-45EF-8536-26275D801663",
+    "name" : "~ kibana localhost",
+    "keyword" : "~ kibana localhost"
+  }
+}

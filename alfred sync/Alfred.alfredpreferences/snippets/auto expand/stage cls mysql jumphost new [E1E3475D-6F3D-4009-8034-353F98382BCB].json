@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# user\/password : listings\/ LE64qeYyRz , new password q8n0GVqpTe\n# sql pro host\/port : 127.0.0.1 , 4306\nssh -N -L 3308:10.54.83.130:3306 10.53.66.159",
+    "dontautoexpand" : true,
+    "uid" : "E1E3475D-6F3D-4009-8034-353F98382BCB",
+    "name" : "stage cls mysql jumphost new",
+    "keyword" : "stage cls mysql jumphost new "
+  }
+}

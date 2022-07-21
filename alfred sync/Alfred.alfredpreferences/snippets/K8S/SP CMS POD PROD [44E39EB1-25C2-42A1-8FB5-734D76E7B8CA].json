@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get pod --context spcms-prod --namespace fk-sp-slm-service",
+    "dontautoexpand" : true,
+    "uid" : "44E39EB1-25C2-42A1-8FB5-734D76E7B8CA",
+    "name" : "SP CMS POD PROD",
+    "keyword" : "> p SP CMS POD PROD"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get pods {clipboard} -o jsonpath='{.spec.containers[*].name}' --context tls-preprod --namespace fk-sp-slm-the-listing-service",
+    "dontautoexpand" : true,
+    "uid" : "76947EFB-7305-45BF-A1B6-BFD384619EFE",
+    "name" : "> TLS containers",
+    "keyword" : "> c TLS containers"
+  }
+}

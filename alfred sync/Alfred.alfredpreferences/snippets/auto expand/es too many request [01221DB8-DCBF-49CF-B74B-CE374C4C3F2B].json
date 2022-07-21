@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl -XPUT -H \"Content-Type: application\/json\" http:\/\/localhost:9200\/_all\/_settings -d '{\"index.blocks.read_only_allow_delete\": null}'\n\ncurl -XPUT -H \"Content-Type: application\/json\" http:\/\/localhost:9200\/_cluster\/settings -d '{ \"transient\": { \"cluster.routing.allocation.disk.threshold_enabled\": false } }' [17:10:24]\n{\"acknowledged\":true,\"persistent\":{},\"transient\":{\"cluster\":{\"routing\":{\"allocation\":{\"disk\":{\"threshold_enabled\":\"false\"}}}}}}\n",
+    "dontautoexpand" : true,
+    "uid" : "01221DB8-DCBF-49CF-B74B-CE374C4C3F2B",
+    "name" : "es too many request",
+    "keyword" : "es too many request"
+  }
+}

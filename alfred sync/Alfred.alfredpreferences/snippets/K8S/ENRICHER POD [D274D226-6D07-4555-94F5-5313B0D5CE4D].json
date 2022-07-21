@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get pod --context tls-preprod --namespace fk-sp-slm-enricher-backend",
+    "dontautoexpand" : true,
+    "uid" : "D274D226-6D07-4555-94F5-5313B0D5CE4D",
+    "name" : "> ENRICHER POD",
+    "keyword" : "> p ENRICHER POD"
+  }
+}

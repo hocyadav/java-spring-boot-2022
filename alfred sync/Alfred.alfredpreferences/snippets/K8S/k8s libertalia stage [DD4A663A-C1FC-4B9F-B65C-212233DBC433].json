@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get pod --context libertalia-preprod --namespace fk-sp-slm-libertalia-service",
+    "dontautoexpand" : true,
+    "uid" : "DD4A663A-C1FC-4B9F-B65C-212233DBC433",
+    "name" : "k8s libertalia stage",
+    "keyword" : "k8s libertalia stage"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh 10.54.114.179",
+    "dontautoexpand" : true,
+    "uid" : "9272706F-3834-4204-B5A7-5F4C46EE255B",
+    "name" : "prod hbase & no hive primary",
+    "keyword" : "prod hbase & no hive primary"
+  }
+}

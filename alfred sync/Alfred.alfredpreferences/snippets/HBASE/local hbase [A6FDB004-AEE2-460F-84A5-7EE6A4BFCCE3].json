@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "cdh\n.\/bin\/hbase shell",
+    "dontautoexpand" : true,
+    "uid" : "A6FDB004-AEE2-460F-84A5-7EE6A4BFCCE3",
+    "name" : "local hbase",
+    "keyword" : "local hbase"
+  }
+}

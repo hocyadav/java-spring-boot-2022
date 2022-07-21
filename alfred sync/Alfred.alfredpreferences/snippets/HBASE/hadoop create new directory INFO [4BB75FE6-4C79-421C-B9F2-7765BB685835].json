@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#hadoop fs -mkdir \/path\/to\/be\/created",
+    "dontautoexpand" : true,
+    "uid" : "4BB75FE6-4C79-421C-B9F2-7765BB685835",
+    "name" : "hadoop create new directory INFO",
+    "keyword" : "hadoop create new directory INFO"
+  }
+}

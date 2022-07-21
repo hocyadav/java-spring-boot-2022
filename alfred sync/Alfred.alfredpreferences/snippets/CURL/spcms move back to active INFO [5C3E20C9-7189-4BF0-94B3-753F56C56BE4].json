@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#get 'fk_sp_cms_listing_data_namespace', 'LSTTSHFFDTGKZ3GKVBTM3IDPL'\n#put 'fk_sp_cms_listing_data_namespace', 'LSTTSHFFDTGKZ3GKVBTM3IDPL', 'd:listing_status', '[{\"value\":\"ACTIVE\"}]'\n#put 'fk_sp_cms_listing_data_namespace', 'LSTTSHFFDTGKZ3GKVBTM3IDPL', 'd:internal_state', '[{\"value\":\"ACTIVE\"}]'\n#get 'fk_sp_cms_listing_data_namespace', 'LSTTSHFFDTGKZ3GKVBTM3IDPL'",
+    "dontautoexpand" : true,
+    "uid" : "5C3E20C9-7189-4BF0-94B3-753F56C56BE4",
+    "name" : "spcms move back to active INFO",
+    "keyword" : "spcms move back to active INFO"
+  }
+}

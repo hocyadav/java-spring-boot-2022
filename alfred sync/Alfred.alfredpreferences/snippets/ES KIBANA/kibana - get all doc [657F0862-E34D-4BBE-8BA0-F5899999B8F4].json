@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "GET \/vehicles\/_search",
+    "dontautoexpand" : true,
+    "uid" : "657F0862-E34D-4BBE-8BA0-F5899999B8F4",
+    "name" : "~ kibana - get all doc",
+    "keyword" : "~ kibana get all doc"
+  }
+}

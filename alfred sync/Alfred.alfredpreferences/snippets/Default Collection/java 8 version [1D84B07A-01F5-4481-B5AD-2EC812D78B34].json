@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "export JAVA_HOME=$(\/usr\/libexec\/java_home -v 1.8.0_291)",
+    "dontautoexpand" : true,
+    "uid" : "1D84B07A-01F5-4481-B5AD-2EC812D78B34",
+    "name" : "java 8 version",
+    "keyword" : "java 8 version"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "deleteall 'table_name', 'row_id'",
+    "dontautoexpand" : true,
+    "uid" : "D5F05F4E-FAC2-4A90-92C7-976565334451",
+    "name" : "hbase delete 1 row and all its column",
+    "keyword" : "hbase delete 1 row and all its column"
+  }
+}

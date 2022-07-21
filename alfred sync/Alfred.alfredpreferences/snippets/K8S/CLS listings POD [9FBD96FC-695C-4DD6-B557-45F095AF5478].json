@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl get pod --context tls-preprod --namespace fk-sp-slm-listings",
+    "dontautoexpand" : true,
+    "uid" : "9FBD96FC-695C-4DD6-B557-45F095AF5478",
+    "name" : "> CLS listings POD",
+    "keyword" : "> p CLS listings POD"
+  }
+}

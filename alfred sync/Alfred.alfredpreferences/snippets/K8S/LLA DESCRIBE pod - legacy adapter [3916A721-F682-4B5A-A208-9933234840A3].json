@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kubectl describe pod {clipboard} --context tls-preprod --namespace fk-sp-slm-legacy-adapter",
+    "dontautoexpand" : true,
+    "uid" : "3916A721-F682-4B5A-A208-9933234840A3",
+    "name" : "> LLA DESCRIBE pod - legacy adapter",
+    "keyword" : "> d LLA DESCRIBE pod - legacy adapter"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "https:\/\/jira.fkinternal.com\/projects\/FLOW\/issues\/FLOW-2456?filter=allopenissues",
+    "dontautoexpand" : true,
+    "uid" : "95C7EF19-934F-4374-973B-6989EE13E35A",
+    "name" : "~ flow jira",
+    "keyword" : "~ flow jira"
+  }
+}

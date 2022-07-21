@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "create table staging_saal\n(\n    key   string,\n    persistence map<string,string>,\n    state map<string,string>\n) STORED AS ORC;",
+    "dontautoexpand" : true,
+    "uid" : "C3045BB1-9559-4318-AD7C-C9744D7AC75A",
+    "name" : "> hive create table - staging saal",
+    "keyword" : "> hive create table - staging saal"
+  }
+}

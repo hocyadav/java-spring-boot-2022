@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.9.10\/harbor\/projects\/16\/repositories\/tools%2Fslm-gradle",
+    "dontautoexpand" : true,
+    "uid" : "27E3385F-6C79-4859-8EFC-ED313EDC5AE6",
+    "name" : "~ docker harbor url",
+    "keyword" : "~ docker harbor url"
+  }
+}

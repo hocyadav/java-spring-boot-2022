@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#ssh 10.53.66.159\nsudoo\n\/opt\/hbase\/bin\/hbase shell\n",
+    "dontautoexpand" : true,
+    "uid" : "E8069B07-145F-4F0B-9070-4DDCA5EC39FB",
+    "name" : "> hbase stage CLS & SP CMS",
+    "keyword" : "> hbase stage CLS SP CMS"
+  }
+}

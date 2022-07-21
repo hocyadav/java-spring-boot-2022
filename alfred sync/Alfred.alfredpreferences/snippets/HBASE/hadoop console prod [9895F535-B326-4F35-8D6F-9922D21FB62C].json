@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.33.130.216:8088\/cluster",
+    "dontautoexpand" : true,
+    "uid" : "9895F535-B326-4F35-8D6F-9922D21FB62C",
+    "name" : "hadoop console prod",
+    "keyword" : "hadoop console prod"
+  }
+}

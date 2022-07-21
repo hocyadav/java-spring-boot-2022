@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#1 check status\ndescribe '{clipboard}'\n#\n#\ndisable '{clipboard}'\n#\n# 2 check status\ndescribe '{clipboard}'\n#\n#\n# 3 drop '{clipboard}'\n",
+    "dontautoexpand" : true,
+    "uid" : "934DF369-4615-4A1A-B2C4-C9736F4077B2",
+    "name" : "> hbase delete truncate table RUN",
+    "keyword" : "> hbase delete truncate table RUN"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#kubectl delete pod listings-modulith-5644565554-tgnn6 --context tls-preprod --namespace fk-sp-slm-listings --grace-period 10",
+    "dontautoexpand" : true,
+    "uid" : "2EC93A47-046C-45CD-86BC-66EFD6655201",
+    "name" : "> delete pod container INFO",
+    "keyword" : "> delete pod container INFO"
+  }
+}

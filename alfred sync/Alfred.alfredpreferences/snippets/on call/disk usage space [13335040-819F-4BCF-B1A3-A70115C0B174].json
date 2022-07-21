@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "du -h \/var\/log\/ --max-depth=1 | sort -hr",
+    "dontautoexpand" : true,
+    "uid" : "13335040-819F-4BCF-B1A3-A70115C0B174",
+    "name" : "~ disk usage space",
+    "keyword" : "~ disk usage space"
+  }
+}

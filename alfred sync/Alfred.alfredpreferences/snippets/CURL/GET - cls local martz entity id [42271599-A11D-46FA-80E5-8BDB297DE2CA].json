@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "curl --location --request GET 'http:\/\/localhost:8080\/v1\/materialize\/{clipboard}' \\\n--header 'Content-Type: application\/json' \\\n--header 'x-seller-id: 19e4d415fc1f40da' \\\n--header 'x-root-context: 0cccd8f1-8423-5854-b81f-8df55feb3b48' \\\n--header 'x-flipkart-client: sp.slm' \\\n--header 'x-priority: P5' | _json",
+    "dontautoexpand" : true,
+    "uid" : "42271599-A11D-46FA-80E5-8BDB297DE2CA",
+    "name" : "GET - cls local martz entity id",
+    "keyword" : "GET - cls local martz entity id"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/localhost:9200\/",
+    "dontautoexpand" : true,
+    "uid" : "9A3527F1-98F2-43D8-8E54-0FD8343562C0",
+    "name" : "~ es localhost",
+    "keyword" : "~ es localhost"
+  }
+}

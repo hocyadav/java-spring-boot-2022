@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "tree -d -I 'build'",
+    "dontautoexpand" : true,
+    "uid" : "379C7BE4-CCB0-481C-AFF1-BA9F811BD2EF",
+    "name" : "tree command only directory",
+    "keyword" : "tree command only directory"
+  }
+}

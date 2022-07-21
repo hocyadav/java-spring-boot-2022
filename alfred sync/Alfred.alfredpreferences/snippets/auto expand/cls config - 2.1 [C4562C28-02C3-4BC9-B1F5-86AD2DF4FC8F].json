@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "spring.datasource.url=jdbc:mysql:\/\/localhost:3306\/MARKETPLACE?sessionVariables=sql_mode='NO_ENGINE_SUBSTITUTION'&jdbcCompliantTruncation=false\n",
+    "dontautoexpand" : true,
+    "uid" : "C4562C28-02C3-4BC9-B1F5-86AD2DF4FC8F",
+    "name" : "cls config - 2.1",
+    "keyword" : "cls config - 2.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "docker run --name cls-mysql -e MYSQL_ROOT_PASSWORD=admin123 -e MYSQL_DATABASE='MARKETPLACE' -p 3306:3306 -d mysql:latest",
+    "dontautoexpand" : true,
+    "uid" : "57A02121-D887-4660-B082-65D38C7CDAE7",
+    "name" : "docker run mysql",
+    "keyword" : "docker run mysql - ravi"
+  }
+}

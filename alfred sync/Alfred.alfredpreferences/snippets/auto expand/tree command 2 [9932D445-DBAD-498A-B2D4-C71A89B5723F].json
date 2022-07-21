@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : " tree -I 'build' subprojects\/compute-service ",
+    "dontautoexpand" : true,
+    "uid" : "9932D445-DBAD-498A-B2D4-C71A89B5723F",
+    "name" : "tree command 2",
+    "keyword" : "tree command 2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "GET el*\/_search\n{\n  \"query\": {\n    \"term\": {\n      \"context.VERTICAL\" : \"services\"\n    }\n  }\n}",
+    "dontautoexpand" : true,
+    "uid" : "0D89BA6C-BAB9-476F-AB97-5D8BA3CA9926",
+    "name" : "~ kibana prod search by vertical",
+    "keyword" : "~ kibana prod search by vertical"
+  }
+}

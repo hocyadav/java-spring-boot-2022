@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "put 'fk_sp_cms_listing_data_namespace', 'LSTSRVDVYJ4YAQCKUCEVVAMMN', 'd:listing_status', '[{\"value\":\"ACTIVE\"}]'",
+    "dontautoexpand" : true,
+    "uid" : "B25347D4-1DF2-45E5-95A8-007387FA91CF",
+    "name" : "hbase update column INACTIVE to ACTIVE",
+    "keyword" : "hbase update column INACTIVE to ACTIVE"
+  }
+}

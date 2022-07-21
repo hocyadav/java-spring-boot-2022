@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.7.94\/app\/kibana#\/discover?_g=(refreshInterval:(pause:!t,value:0),time:(from:now-13m,to:now))&_a=(columns:!(_source),index:'1d1d63e0-9803-11e9-ab93-d1da4b552730',interval:auto,query:(language:kuery,query:'entityId%20:%20LSTACCFJEFF3WMYUDGQ9X6LJM'),sort:!('@timestamp',desc))",
+    "dontautoexpand" : true,
+    "uid" : "6585676A-3656-417C-ADE3-66BD4D036D27",
+    "name" : "entity log spotlight prod",
+    "keyword" : "entity log spotlight prod"
+  }
+}

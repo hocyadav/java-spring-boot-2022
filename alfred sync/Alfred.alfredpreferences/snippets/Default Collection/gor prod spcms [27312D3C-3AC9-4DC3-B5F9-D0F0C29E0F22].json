@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/10.24.7.152\/gor-2022-02-17\/_search?q=request_url:backend",
+    "dontautoexpand" : true,
+    "uid" : "27312D3C-3AC9-4DC3-B5F9-D0F0C29E0F22",
+    "name" : "gor prod spcms",
+    "keyword" : "gor prod spcms"
+  }
+}

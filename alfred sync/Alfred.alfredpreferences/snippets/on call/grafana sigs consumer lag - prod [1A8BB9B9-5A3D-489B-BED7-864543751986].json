@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "http:\/\/cosmos.fkcloud.in\/dashboard\/script\/varadhi_queues_hyd_prod.js?queue_name=sigs-inventory-relay&orgId=1&from=now-2d&to=now",
+    "dontautoexpand" : true,
+    "uid" : "1A8BB9B9-5A3D-489B-BED7-864543751986",
+    "name" : "grafana sigs consumer lag - prod",
+    "keyword" : "grafana sigs consumer lag - prod"
+  }
+}

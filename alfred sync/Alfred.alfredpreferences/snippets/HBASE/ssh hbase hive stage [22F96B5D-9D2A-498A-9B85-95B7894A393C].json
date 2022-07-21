@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh 10.53.66.159",
+    "dontautoexpand" : true,
+    "uid" : "22F96B5D-9D2A-498A-9B85-95B7894A393C",
+    "name" : "> ssh hbase \/ hive stage",
+    "keyword" : "> ssh hbase \/ hive stage"
+  }
+}
